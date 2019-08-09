@@ -1,0 +1,1559 @@
+id,fecha_siniestro,tipo_automovil,marca,modelo,lng,lat,day,month
+31157,30-12-2010 00:00,Todo terreno,Ssangyong,Actyon xdi 4x2 (ay210),-58.4198526,-34.581720000000004,Thursday,December
+31158,06-10-2010 00:00,Todo terreno,Suzuki,Grand vitara 1.6 glx ac,-74.6876127,-14.359001199999998,Wednesday,October
+31162,04-01-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-78.4711238,-0.29389440000000006,Tuesday,January
+31165,05-01-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.5918986,-33.5670425,Wednesday,January
+31168,06-01-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.6285939,-33.452672899999996,Thursday,January
+31169,07-01-2011 00:00,Todo terreno,Ssangyong,Rexton xt207,-58.7084982,-38.5532324,Friday,January
+31171,08-01-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.6464016,-33.47760460000001,Saturday,January
+31176,12-01-2011 00:00,Camioneta,Chevrolet,D-max cc 3.0d 4wd dab abs,-73.0269432,-36.8206732,Wednesday,January
+31177,12-01-2011 00:00,Automovil,Toyota,Yaris gl,-1.699151973,37.67737915,Wednesday,January
+31180,13-01-2011 00:00,Furgon,Hyundai,H1 2.4 hsv 7s at sr,-70.654485,-33.4079671,Thursday,January
+31181,15-01-2011 00:00,Automovil,Nissan,Sentra 1.6 dx,-61.555294,10.6939295,Saturday,January
+31189,15-01-2011 00:00,Automovil,Honda,Accord,-70.577949,-33.3886348,Saturday,January
+31190,19-01-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-71.9185009,-37.0574009,Wednesday,January
+31191,21-01-2011 00:00,Todo terreno,Kia motors,Sportage,-70.55762497,-33.4289258,Friday,January
+31192,20-01-2011 00:00,Todo terreno,Toyota,Rav4 std,-4.5953106,36.56701279999999,Thursday,January
+31194,20-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.9458239,-53.1809132,Thursday,January
+31195,22-01-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-55.885357,-27.422095000000002,Saturday,January
+31196,22-01-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-8.1401153,40.7117276,Saturday,January
+31201,21-01-2011 00:00,Automovil,Kia motors,Pride 1.3 gl,-48.633509,-27.783587800000003,Friday,January
+31206,25-01-2011 00:00,Automovil,Toyota,Yaris gl,-5.6605541,40.947774100000004,Tuesday,January
+31207,27-01-2011 00:00,Todo terreno,Hyundai,Tucson 2.7 gls at 4wd,-70.6553604,-33.5407629,Thursday,January
+31208,27-01-2011 00:00,Automovil,Toyota,Yaris gl,-99.2340229,28.423659000000004,Thursday,January
+31209,27-01-2011 00:00,Camioneta,Toyota,Hilux,-70.5962392,-33.3917023,Thursday,January
+31210,28-01-2011 00:00,Automovil,Nissan,Primera gx,-71.544321,-32.9719758,Friday,January
+31211,31-01-2011 00:00,Automovil,Samsung,Sm3 le at,0.3378291,43.0661834,Monday,January
+31214,31-01-2011 00:00,Automovil,Toyota,Corolla,-70.6185779,-33.5080072,Monday,January
+31216,01-02-2011 00:00,Automovil,Subaru,Legacy 1.8 dl,-1.1910359,42.8028724,Tuesday,February
+31217,03-02-2011 00:00,Automovil,Fiat,Uno 1.4 ie,-70.61494887,-33.43916347,Thursday,February
+31219,06-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.57489791,-33.42569371,Sunday,February
+31220,05-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.5042761,-33.3862252,Saturday,February
+31223,10-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.60123486,-33.4274378,Thursday,February
+31225,11-02-2011 00:00,Furgon,Citroen,Berlingo ii 1.4 600 k ac,-70.7310032,-33.40376675,Friday,February
+31226,12-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.5990774,-33.4477806,Saturday,February
+31228,12-02-2011 00:00,Automovil,Toyota,Yaris gl,-66.796886,10.48132115,Saturday,February
+31230,15-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-68.56277808,-31.523359600000003,Tuesday,February
+31232,15-02-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.8683289,-33.600496899999996,Tuesday,February
+31233,15-02-2011 00:00,Todo terreno,Toyota,Rav4 std,-6.151952,36.3157805,Tuesday,February
+31234,16-02-2011 00:00,Automovil,Suzuki,Swift 1.3 ga,-58.01747484,-31.38155685,Wednesday,February
+31235,10-02-2011 00:00,Automovil,Toyota,Yaris gl,-6.3740567,39.464333700000005,Thursday,February
+31237,01-02-2011 00:00,Station wagon,Toyota,Rav4 std,-58.5881007,-34.654164,Tuesday,February
+31238,18-02-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5732608,-33.4105551,Friday,February
+31239,18-02-2011 00:00,Automovil,Subaru,Legacy 1.8 dl,-70.5863472,-33.43134685,Friday,February
+31240,18-02-2011 00:00,Todo terreno,Ssangyong,Actyon xdi 4x2 (ay210),-70.544263,-33.398023800000004,Friday,February
+31244,23-02-2011 00:00,Automovil,Peugeot,307 cc 1.6,-70.55132628,-33.40797215,Wednesday,February
+31245,23-02-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.5702632,-33.4000364,Wednesday,February
+31246,24-02-2011 00:00,Automovil,Toyota,Yaris gl,8.4793205,49.4846906,Thursday,February
+31247,14-02-2011 00:00,Station wagon,Ford,Edge se 3.5l aut,-64.2449454,-21.4397594,Monday,February
+31249,26-02-2011 00:00,Todo terreno,Ssangyong,Actyon xdi 4x2 (ay210),-17.2796194,28.2145005,Saturday,February
+31250,26-02-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-71.5308028,-32.781036300000004,Saturday,February
+31252,08-02-2011 00:00,Automovil,Toyota,Yaris gl,-97.8906298,19.2538283,Tuesday,February
+31253,27-02-2011 00:00,Automovil,Nissan,V16,-71.9747668,-34.5661066,Sunday,February
+31254,26-02-2011 00:00,Automovil,Toyota,Yaris gl,-2.5838381,36.8032635,Saturday,February
+31256,26-02-2011 00:00,Automovil,Toyota,Yaris gl,-79.8808033,-2.1904001,Saturday,February
+31258,01-03-2011 00:00,Automovil,Kia motors,Rio 1.3 rs,-68.5417603,-27.1092834,Tuesday,March
+31259,28-02-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.75141353,-33.48327125,Monday,February
+31262,02-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-92.0681859,33.62661,Wednesday,March
+31264,19-02-2011 00:00,Station wagon,Ford,Edge se 3.5l aut,-3.9252259,39.962476,Saturday,February
+31267,04-03-2011 00:00,Todo terreno,Honda,Crv 2.0,-58.6980637,-38.5416662,Friday,March
+31268,03-03-2011 00:00,Station wagon,Chevrolet,Vivant ls mc 1.6 16v mtaw,-73.2330833,-39.8188718,Thursday,March
+31269,03-03-2011 00:00,Camioneta,Hyundai,Porter,-66.6226728,18.0169098,Thursday,March
+31270,05-03-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-72.9552323,-38.744879600000004,Saturday,March
+31271,05-03-2011 00:00,Todo terreno,Hyundai,Santa fe 2.0 gl 2wd crd,-89.3126923,13.4863157,Saturday,March
+31273,05-03-2011 00:00,Automovil,Toyota,Yaris gl,-66.99648894,10.6014603,Saturday,March
+31277,08-03-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.6588926,-33.5751518,Tuesday,March
+31281,07-02-2011 00:00,Camioneta,Toyota,Hilux,-69.9225506,18.4910028,Monday,February
+31284,10-03-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0/glx 4x2,-70.56572151,-33.41269015,Thursday,March
+31285,11-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.1491977,19.0487404,Friday,March
+31286,10-03-2011 00:00,Furgon,Hyundai,H1 2.4 hsv 7s at sr,-58.99488879,-27.4330744,Thursday,March
+31287,12-03-2011 00:00,Automovil,Nissan,Sentra 1.6 dx,-70.5739573,-33.610758000000004,Saturday,March
+31290,08-03-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.60210517,-33.45335702,Tuesday,March
+31293,12-03-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.6588926,-33.5751518,Saturday,March
+31294,15-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-92.9070609,44.829356,Tuesday,March
+31295,17-03-2011 00:00,Station wagon,Toyota,Rav4 std,-107.1510879,34.936825,Thursday,March
+31296,17-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.4749842,-33.343462,Thursday,March
+31299,17-03-2011 00:00,Todo terreno,Suzuki,Grand vitara 1.6 glx ac,-71.6135616,19.4207783,Thursday,March
+31301,18-03-2011 00:00,Automovil,Mitsubishi,Colt 1.6 glxi,-70.5623487,-33.4074762,Friday,March
+31303,19-03-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-70.5953421,-33.4323148,Saturday,March
+31306,20-03-2011 00:00,Automovil,Nissan,Primera,-0.3777286,39.489568799999994,Sunday,March
+31308,19-02-2011 00:00,Camioneta,Nissan,Terrano pick up ax dies,-5.1520091,36.429460799999994,Saturday,February
+31309,23-03-2011 00:00,Camioneta,Nissan,Navara le 4x2,-65.17924579,-32.38060505,Wednesday,March
+31313,26-03-2011 00:00,Automovil,Subaru,New impreza 1.5r 5d awd2a,-1.8589175,42.056000000000004,Saturday,March
+31318,29-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-121.9243887,37.3238926,Tuesday,March
+31320,28-03-2011 00:00,Camioneta,Nissan,Navara le 4x2,-3.2755181,40.6118497,Monday,March
+31321,28-03-2011 00:00,Camioneta,Mitsubishi,L200,-64.1183031,-32.1908352,Monday,March
+31323,29-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.7220302,-33.4731467,Tuesday,March
+31324,30-03-2011 00:00,Automovil,Chevrolet,Astra 1.4,-61.49000564,-28.3588901,Wednesday,March
+31329,02-04-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.6610229,-33.4557326,Saturday,April
+31330,03-04-2011 00:00,Camioneta,Toyota,Hilux d/c,-122.4192362,37.779280799999995,Sunday,April
+31331,03-04-2011 00:00,Todo terreno,Mitsubishi,Montero 4 p,-71.5257377,-32.9658189,Sunday,April
+31332,01-04-2011 00:00,Automovil,Chevrolet,Cxz 2736-197 chassis cabina,-40.3102574,-5.397183900000001,Friday,April
+31334,02-04-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-6.6013781,42.1945302,Saturday,April
+31335,02-04-2011 00:00,Automovil,Nissan,V16,3.1328057,42.312372100000005,Saturday,April
+31338,03-03-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-87.9740617,43.1820217,Thursday,March
+31343,06-04-2011 00:00,Camioneta,Nissan,D21 d/c,-70.6132755,-33.501344,Wednesday,April
+31344,07-04-2011 00:00,Automovil,Suzuki,Swift 1.5 gl ac,-46.788858,-18.8432793,Thursday,April
+31346,07-04-2011 00:00,Automovil,Nissan,V16,-79.0513976,-8.144172200000002,Thursday,April
+31347,08-04-2011 00:00,Automovil,Toyota,Yaris gl,-114.740814,32.5201816,Friday,April
+31348,11-04-2011 00:00,Automovil,Suzuki,Swift 1.3 gl,-81.0718779,29.305856,Monday,April
+31349,10-04-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-70.572846,-33.388121999999996,Sunday,April
+31353,13-04-2011 00:00,Automovil,Hyundai,Getz 1.3 gl 1ab,-70.5164221,-33.3992786,Wednesday,April
+31354,12-04-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5221166,-33.374834899999996,Tuesday,April
+31355,13-04-2011 00:00,Automovil,Toyota,Yaris sport xli,-77.0273282,-11.9049842,Wednesday,April
+31360,15-04-2011 00:00,Station wagon,Toyota,Rav4 std,-70.6366019,-33.43457045,Friday,April
+31362,17-04-2011 00:00,Camioneta,Kia motors,K 2400 10s c/s,-73.1103862,-40.58391829999999,Sunday,April
+31363,16-04-2011 00:00,Todo terreno,Kia motors,Sportage,-70.59786898,-33.43880893,Saturday,April
+31364,18-04-2011 00:00,Minibus,Kia motors,Besta 2.7,-46.9952011,-22.9394402,Monday,April
+31365,18-04-2011 00:00,Todo terreno,Hyundai,Tucson 2.7 gls at 4wd,-111.9898004,40.6581232,Monday,April
+31366,13-04-2011 00:00,Automovil,Toyota,Yaris gl,-78.3125506,-0.0319711,Wednesday,April
+31367,18-04-2011 00:00,Camioneta,Nissan,D21 d/c,-70.6014954,-33.418201399999994,Monday,April
+31369,18-04-2011 00:00,Automovil,Kia motors,Cerato ex 1.6 aut. ac dab,-66.8471839,18.031192,Monday,April
+31370,18-04-2011 00:00,Station wagon,Subaru,Legacy 3.0 4d spec b vdc,-70.5960396,-33.4384287,Monday,April
+31371,18-04-2011 00:00,Todo terreno,Nissan,Terrano,-70.5867756,-33.420081,Monday,April
+31372,19-04-2011 00:00,Todo terreno,Hyundai,Santa fe 2.0 gl 2wd crd,-3.9503862,40.7259665,Tuesday,April
+31376,20-04-2011 00:00,Automovil,Toyota,Yaris gl,-68.2585258,-23.38960665,Wednesday,April
+31380,25-04-2011 00:00,Camioneta,Nissan,Terrano pick up ax dies,-70.67233252,-33.53515803,Monday,April
+31387,28-04-2011 00:00,Todo terreno,Mitsubishi,Montero 4 p,-73.0292146,-36.8021034,Thursday,April
+31392,29-04-2011 00:00,Automovil,Toyota,Yaris gl,-118.4875489,34.019657,Friday,April
+31395,02-05-2011 00:00,Station wagon,Toyota,Rav4 lujo,-70.53558454,-33.40951356,Monday,May
+31397,05-05-2011 00:00,Todo terreno,Hyundai,Tucson 2.7 gls at 4wd,-69.9143118,-25.9831382,Thursday,May
+31399,05-05-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-70.2433744,-33.186642600000006,Thursday,May
+31400,07-05-2011 00:00,Automovil,Toyota,Yaris gl,-3.8720434,40.7259858,Saturday,May
+31401,27-04-2011 00:00,Automovil,Nissan,Sentra 2.0,-70.6194996,-33.492746000000004,Wednesday,April
+31402,09-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0/glx 4x2,-70.5985257,-33.453538800000004,Monday,May
+31405,11-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover automat,-71.1913824,-34.648138200000005,Wednesday,May
+31406,10-05-2011 00:00,Camioneta,Subaru,Baja pick up 2.5 at,-70.57726235,-33.39212003,Tuesday,May
+31407,11-05-2011 00:00,Automovil,Subaru,Impreza 1.6 gl aa,-70.6120414,-33.460009899999996,Wednesday,May
+31410,12-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 glx,-70.55530381,-33.39204823,Thursday,May
+31412,14-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-71.5308028,-32.781036300000004,Saturday,May
+31416,14-05-2011 00:00,Station wagon,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.5295594,-33.438829999999996,Saturday,May
+31418,04-05-2011 00:00,Camioneta,Nissan,Navara le 4x2,-70.1524645,-20.2140656,Wednesday,May
+31419,18-05-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-70.54297774,-33.41035843,Wednesday,May
+31421,19-05-2011 00:00,Automovil,Toyota,Starlet 1.0 xl,-70.6017482,-33.4297223,Thursday,May
+31422,19-05-2011 00:00,Camioneta,Chevrolet,Luv 1.6 d/c,-4.2011489,40.231463500000004,Thursday,May
+31423,20-05-2011 00:00,Automovil,Samsung,Sm3 le at,-106.6506739,35.17239,Friday,May
+31424,19-05-2011 00:00,Camioneta,Nissan,Navara le 4x2,-70.4966062,-33.3640845,Thursday,May
+31426,20-05-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-71.7286087,-35.6894372,Friday,May
+31427,20-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0/glx 4x2,-70.57605954,-33.37136483,Friday,May
+31428,22-05-2011 00:00,Todo terreno,Honda,Crv 2.0,-98.45813319,19.108358600000003,Sunday,May
+31429,23-05-2011 00:00,Todo terreno,Honda,Crv 2.0,-8.647761,40.4740068,Monday,May
+31430,23-05-2011 00:00,Automovil,Toyota,Yaris gli,-13.5659744,28.9827483,Monday,May
+31433,19-05-2011 00:00,Automovil,Kia motors,Rio 1.3 rs,-58.522971,-33.011946,Thursday,May
+31436,26-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-4.3662929,36.7237563,Thursday,May
+31437,26-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-55.0291331,-34.847236200000005,Thursday,May
+31446,06-01-2011 00:00,Automovil,Lifan,520 ex 1.6,-72.9045788,-41.4015516,Thursday,January
+31448,08-01-2011 00:00,Camioneta,Mitsubishi,L200 dc td katana,-70.5758923,-33.572057,Saturday,January
+31469,18-02-2011 00:00,Camioneta,Nissan,Otra,-70.4383757,-23.4456716,Friday,February
+31471,20-02-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-70.5584185,-33.428940000000004,Sunday,February
+31472,21-02-2011 00:00,Minibus,Hyundai,New h-1 gl 2.5 tci f.esc,-70.55557226,-33.40882263,Monday,February
+31474,19-02-2011 00:00,Automovil,Toyota,Otra,-65.9937159,18.407526,Saturday,February
+31475,23-02-2011 00:00,Camioneta,Toyota,Otra,2.1448951,43.92721029999999,Wednesday,February
+31478,25-02-2011 00:00,Minibus,Hyundai,Otra,-117.5988131,33.430583899999995,Friday,February
+31479,25-02-2011 00:00,Automovil,Chevrolet,Corsa swing,-122.3455262,37.96214570000001,Friday,February
+31480,28-02-2011 00:00,Automovil,Citroen,C-3 1.4,-70.5568244,-33.536078,Monday,February
+31481,28-02-2011 00:00,Camioneta,Nissan,D21 d/c,-68.1509531,-16.5400885,Monday,February
+31482,01-03-2011 00:00,Automovil,Chevrolet,Aveo ls nb 1.4 16v mt,-68.1436119,-16.5072465,Tuesday,March
+31483,02-03-2011 00:00,Camioneta,Nissan,Otra,-71.9827075,-13.5267117,Wednesday,March
+31484,03-03-2011 00:00,Automovil,Kia motors,Grand carnival dsl aut ac,-70.3915792,-23.6050098,Thursday,March
+31485,03-03-2011 00:00,Automovil,Toyota,Yaris xli,-76.5195265,2.6368175,Thursday,March
+31486,06-03-2011 00:00,Automovil,Subaru,New legacy 2.0 4d awd,-99.772511,19.2619018,Sunday,March
+31487,06-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,-3.7467312,39.0174657,Sunday,March
+31488,02-03-2011 00:00,Semiremolques (carroceria plana),Otra,Otra,-70.688711,-33.3894867,Wednesday,March
+31489,06-03-2011 00:00,Camioneta,Kia motors,Frontier ii 2.5 plus chdh,-70.63138304,-33.47789232,Sunday,March
+31490,07-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,-58.1899099,-34.854937299999996,Monday,March
+31491,06-03-2011 00:00,Automovil,Suzuki,Aerio sedan gls,-73.0493395,-36.827520299999996,Sunday,March
+31493,07-03-2011 00:00,Camioneta,Hyundai,Otra,-70.6714557,-33.3711106,Monday,March
+31494,08-03-2011 00:00,Automovil,Suzuki,Grand nomade 2.0,-101.0927527,22.9336204,Tuesday,March
+31495,11-03-2011 00:00,Camiones,Mitsubishi,Canter 3 5 �ĉ�� 4 ton.,-116.6846795,32.6577937,Friday,March
+31496,11-03-2011 00:00,Automovil,Chevrolet,Corsa swing,-70.6135321,-33.4216217,Friday,March
+31497,04-03-2011 00:00,Automovil,Nissan,V16 ex saloon,-8.6290352,41.9034948,Friday,March
+31498,12-03-2011 00:00,Automovil,Suzuki,Swift sf-416 1.6 sedan,-13.6974623,28.9749777,Saturday,March
+31500,12-03-2011 00:00,Automovil,Chevrolet,Aveo lt nb 1.4 16v mt ac,-70.67428395,-33.38904612,Saturday,March
+31502,13-03-2011 00:00,Furgon,Hyundai,Otra,-70.59962114,-33.45662131,Sunday,March
+31503,13-03-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-72.5245017,-37.64449715,Sunday,March
+31504,15-03-2011 00:00,Camioneta,Toyota,Hilux d/c,-1.700235,37.6755534,Tuesday,March
+31505,13-03-2011 00:00,Furgon,Hyundai,Otra,-71.1666002,-30.5743375,Sunday,March
+31506,15-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-90.5986717,14.6411274,Tuesday,March
+31510,19-03-2011 00:00,Automovil,Suzuki,Swift gti,-51.3638405,-29.569202899999997,Saturday,March
+31511,20-03-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 sp edit.,7.5417864,47.2097513,Sunday,March
+31512,20-03-2011 00:00,Automovil,Hyundai,Accent 1.5 gls,-72.2116068,-37.49621810000001,Sunday,March
+31513,20-03-2011 00:00,Automovil,Subaru,Impreza 2.0 awd gt,-70.6701293,-33.1832876,Sunday,March
+31514,20-03-2011 00:00,Camioneta,Nissan,D21 d/c,11.7165149,45.2700441,Sunday,March
+31515,20-03-2011 00:00,Automovil,Toyota,Yaris xli,2.322222244,47.92339825,Sunday,March
+31516,20-03-2011 00:00,Furgon,Fiat,Otra,-69.7333329,-25.066666899999998,Sunday,March
+31517,22-03-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-70.6051843,-33.511931,Tuesday,March
+31520,03-04-2011 00:00,Automovil,Volkswagen,Vento glx,-53.7256082,-29.703188899999997,Sunday,April
+31521,02-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.1598926,-30.563574600000003,Saturday,April
+31523,06-04-2011 00:00,Automovil,Nissan,Tiida hatchback le mt,-70.6799579,-33.4975367,Wednesday,April
+31524,08-04-2011 00:00,Camioneta,Nissan,Terrano,-0.210697,40.0703594,Friday,April
+31525,08-04-2011 00:00,Automovil,Chevrolet,Optra ls nb 1.6 16v mt ac,-70.5698261,-33.4598968,Friday,April
+31527,10-04-2011 00:00,Automovil,Toyota,Rav4 std,-70.5436189,-33.4454525,Sunday,April
+31529,10-01-2011 00:00,Automovil,Suzuki,Swift gl,-70.5107303,-33.3454138,Monday,January
+31530,06-04-2011 00:00,Automovil,Kia motors,Sportage,-76.8444439,0.23416700000000001,Wednesday,April
+31531,11-04-2011 00:00,Automovil,Suzuki,Grand nomade 2.0 glx spac,-68.126563,-38.8432157,Monday,April
+31532,11-01-2011 00:00,Automovil,Suzuki,Swift gl,-70.6532748,-33.1821312,Tuesday,January
+31534,13-04-2011 00:00,Camioneta,Nissan,Otra,-4.2782455,36.7172277,Wednesday,April
+31535,06-01-2011 00:00,Furgon,Hyundai,Otra,9.0715003,52.7686056,Thursday,January
+31536,11-01-2011 00:00,Camioneta,Nissan,Otra,9.0715003,52.7686056,Tuesday,January
+31537,14-04-2011 00:00,Automovil,Subaru,Impreza 1.8i gla ltd,-70.61075164,-33.48963162,Thursday,April
+31539,15-01-2011 00:00,Automovil,Chevrolet,Optra ls nb 1.8 16v at ac,9.0715003,52.7686056,Saturday,January
+31540,15-01-2011 00:00,Camioneta,Ford,Ranger 2.5,-98.25141427,19.12464655,Saturday,January
+31541,15-04-2011 00:00,Station wagon,Toyota,Rav4 lujo,-100.3119604,25.7225729,Friday,April
+31543,16-01-2011 00:00,Camioneta,Hyundai,Otra,9.0715003,52.7686056,Sunday,January
+31544,18-04-2011 00:00,Automovil,Nissan,V16 ex 1.6 sedan,-99.1492766,19.5188009,Monday,April
+31545,18-04-2011 00:00,Camioneta,Ford,F-150 dc lariat 5.4l 4x4,-70.51668606,-33.357568699999995,Monday,April
+31547,19-01-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-14.02700801,28.63484235,Wednesday,January
+31549,21-04-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-73.0619766,-36.829636799999996,Thursday,April
+31550,21-04-2011 00:00,Automovil,Toyota,Yaris gl,-68.0606777,-38.9436814,Thursday,April
+31551,20-04-2011 00:00,Automovil,Toyota,Yaris gl,-70.59122999,-33.457308000000005,Wednesday,April
+31554,22-01-2011 00:00,Camioneta,Hyundai,Porter,-78.3930992,-6.092266599999999,Saturday,January
+31555,24-01-2011 00:00,Automovil,Chevrolet,Optra ls nb 1.6 16v mt ac,-70.58004764,-33.45069691,Monday,January
+31556,26-04-2011 00:00,Station wagon,Toyota,Rav4 lujo,-70.58186483,-33.39938573,Tuesday,April
+31558,26-01-2011 00:00,Camiones,Mitsubishi,Otra,-70.6082182,-33.534127399999996,Wednesday,January
+31559,25-04-2011 00:00,Furgon,Fiat,Otra,-70.67457285,-33.40778612,Monday,April
+31560,27-04-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-70.54291086,-33.38904775,Wednesday,April
+31561,29-04-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-67.4624371,-26.1183276,Friday,April
+31562,28-04-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-70.5293239,-33.4135223,Thursday,April
+31563,29-04-2011 00:00,Minibus,Hyundai,Otra,-71.1267879,-33.400778700000004,Friday,April
+31564,29-04-2011 00:00,Automovil,Kia motors,Otra,-79.9543708,-3.2625679,Friday,April
+31566,29-01-2011 00:00,Camiones,Hyundai,Hd 65 std 4 2 ton 4x2,-70.6761456,-33.3642857,Saturday,January
+31569,31-05-2011 00:00,Todo terreno,Kia motors,Sportage,9.0546946,52.7702851,Tuesday,May
+31574,16-04-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx,-97.2913899,20.3825,Saturday,April
+31577,14-05-2011 00:00,Station wagon,Kia motors,Sorento ex 2.5 at ac 4x4,-70.60894545,-33.41527842,Saturday,May
+31578,02-06-2011 00:00,Station wagon,Ssangyong,Stavic st 201,-70.63370539,-33.47158196,Thursday,June
+31582,04-05-2011 00:00,Automovil,Suzuki,Swift gl,-1.5032732,37.6267815,Wednesday,May
+31583,04-05-2011 00:00,Furgon,Hyundai,Otra,-70.59962114,-33.45662131,Wednesday,May
+31584,07-05-2011 00:00,Camiones,Hino,Fb 4jg ta,-2.4674916,42.3285528,Saturday,May
+31585,07-05-2011 00:00,Automovil,Chevrolet,Aveo lt hb 5p 1.4 16v mt,-70.676745,-33.5561492,Saturday,May
+31586,07-05-2011 00:00,Camiones,International,2674 6x4 tolva,-98.1765395,18.9073353,Saturday,May
+31588,09-05-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-102.9982926,22.656149,Monday,May
+31589,07-05-2011 00:00,Camioneta,Mitsubishi,L200 2.5 d/c,-70.5647403,-33.3741631,Saturday,May
+31590,09-05-2011 00:00,Automovil,Suzuki,Otra,-6.5283914,40.6010104,Monday,May
+31592,09-05-2011 00:00,Camioneta,Chevrolet,Luv 2.3 d/c,-100.7200217,20.9138475,Monday,May
+31593,12-05-2011 00:00,Automovil,Suzuki,Swift gl,-95.6762307,29.7035674,Thursday,May
+31594,12-05-2011 00:00,Automovil,Suzuki,Grand nomade 2.0,-70.5363243,-33.3845856,Thursday,May
+31595,13-05-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-70.6126288,-33.452957500000004,Friday,May
+31596,16-05-2011 00:00,Automovil,Chevrolet,Optra ls nb 1.6 16v mt ac,-70.78688924,-33.52692698,Monday,May
+31597,16-05-2011 00:00,Automovil,Toyota,Yaris sport gli dab,-70.59253908,-33.41725619,Monday,May
+31598,17-05-2011 00:00,Furgon,Peugeot,Partner break,-74.1538313,4.57939895,Tuesday,May
+31599,17-05-2011 00:00,Automovil,Toyota,Yaris gl,19.291739,43.0285558,Tuesday,May
+31600,17-05-2011 00:00,Camioneta,Nissan,Otra,-75.9335398,20.0608949,Tuesday,May
+31601,17-05-2011 00:00,Automovil,Kia motors,Otra,-70.54291086,-33.38904775,Tuesday,May
+31602,16-05-2011 00:00,Automovil,Toyota,Yaris xli,-70.5979707,-33.42801895,Monday,May
+31603,18-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.5049836,-33.394132899999995,Wednesday,May
+31604,20-05-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-76.9391751,1.6261368,Friday,May
+31605,20-05-2011 00:00,Automovil,Suzuki,Swift gl,-70.987016,-33.0188505,Friday,May
+31606,19-05-2011 00:00,Minibus,Hyundai,New h-1 furgon gl tci 3s,-5.0554851,40.9087017,Thursday,May
+31607,21-05-2011 00:00,Automovil,Toyota,Yaris gli,-70.59217219,-33.43747326,Saturday,May
+31608,22-05-2011 00:00,Furgon,Hyundai,Furgon h-1 2.5 tdi ps,-70.5619366,-33.3893903,Sunday,May
+31609,21-05-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-70.52462794,-33.38754758,Saturday,May
+31611,23-05-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-70.652592,-33.3741566,Monday,May
+31612,24-05-2011 00:00,Automovil,Kia motors,Rio ii rs 1.5 mt dh,-65.2596022,-19.047861899999997,Tuesday,May
+31613,24-05-2011 00:00,Station wagon,Suzuki,Grand nomade 2.7at glx sp,-70.6042724,-33.473985600000006,Tuesday,May
+31614,22-05-2011 00:00,Furgon,Fiat,Otra,-47.7996074,-21.199502600000002,Sunday,May
+31619,30-05-2011 00:00,Automovil,Suzuki,Swift sf-413,-65.6288267,-27.429756599999997,Monday,May
+31620,30-05-2011 00:00,Automovil,Nissan,V16 sentra sedan,-78.6074819,-1.2420399,Monday,May
+31621,30-05-2011 00:00,Camioneta,Nissan,Otra,-70.57972151,-33.38333248,Monday,May
+31622,30-05-2011 00:00,Automovil,Chevrolet,Otra,-70.68663407,-33.59352,Monday,May
+31623,30-05-2011 00:00,Furgon,Kia motors,Otra,25.6461008,44.98411,Monday,May
+31624,30-05-2011 00:00,Station wagon,Toyota,Rav4 super lujo,-57.5506093,-38.072309000000004,Monday,May
+31625,31-05-2011 00:00,Automovil,Toyota,Yaris xli,-70.6223967,-33.4600574,Tuesday,May
+31626,31-05-2011 00:00,Automovil,Toyota,Yaris gl,-16.3104892,28.4335848,Tuesday,May
+31631,24-01-2011 00:00,Automovil,Nissan,V16,-70.38969,-23.5803158,Monday,January
+31632,31-01-2011 00:00,Camiones,Hyundai,Camion porter 2 ton. 4x2,-70.681175,-33.4020115,Monday,January
+31641,01-03-2011 00:00,Station wagon,Subaru,Legacy 1.8 dl,-98.2705626,27.386981800000004,Tuesday,March
+31643,03-03-2011 00:00,Camioneta,Autorrad,Century d/c full,-70.5586515,-33.3942915,Thursday,March
+31646,10-03-2011 00:00,Camioneta,Nissan,Navara se 4x4,-5.673483591,43.5418818,Thursday,March
+31652,25-03-2011 00:00,Station wagon,Toyota,Rav4 std,-99.1708295,19.3046935,Friday,March
+31654,26-03-2011 00:00,Camioneta,Nissan,D21 d/c,-57.6308956,-25.312525100000002,Saturday,March
+31655,28-03-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-52.0582459,-3.1734687000000004,Monday,March
+31656,29-03-2011 00:00,Station wagon,Subaru,Forester 2.0 awd turbo,-5.8635419,42.0485098,Tuesday,March
+31667,01-05-2011 00:00,Automovil,Toyota,Rav4 std,-66.02396979,18.38937075,Sunday,May
+31668,02-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 glx,-4.138499487,42.28789045,Monday,May
+31669,01-05-2011 00:00,Automovil,Kia motors,Rio ii rs 1.3 mt,12.3721355,41.8493656,Sunday,May
+31670,30-04-2011 00:00,Automovil,Peugeot,Otra,-68.6464642,-32.9979722,Saturday,April
+31672,01-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-99.2274399,19.3751776,Sunday,May
+31673,02-05-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x4 mt,-74.1975377,-13.175675199999997,Monday,May
+31674,29-04-2011 00:00,Automovil,Chevrolet,Otra,2.1811177,41.5775552,Friday,April
+31675,29-04-2011 00:00,Todo terreno,Subaru,Otra,22.12460171,50.01116675,Friday,April
+31676,30-04-2011 00:00,Automovil,Toyota,Yaris gl,-92.7744389,36.933626000000004,Saturday,April
+31677,02-05-2011 00:00,Automovil,Toyota,Yaris sedan xli,-70.599449,-33.441739399999996,Monday,May
+31678,03-05-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-89.2191985,13.6952693,Tuesday,May
+31679,01-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl mt 2wd s/ac,-70.58289611,-33.43036126,Sunday,May
+31680,04-05-2011 00:00,Camioneta,Toyota,Hilux,-70.72105669,-33.46141579,Wednesday,May
+31681,02-05-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x2 mt,-76.9062192,-12.1532198,Monday,May
+31682,03-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.59518475,-33.43647034,Tuesday,May
+31683,03-05-2011 00:00,Automovil,Chevrolet,Otra,-73.5956001,45.522942900000004,Tuesday,May
+31685,04-05-2011 00:00,Automovil,Chevrolet,Corsa extra ml 1.6 pwr ac,-79.9169506,-2.0382682,Wednesday,May
+31686,05-05-2011 00:00,Automovil,Hyundai,Otra,-1.7253934,38.922497,Thursday,May
+31687,03-05-2011 00:00,Automovil,Mitsubishi,Otra,2.168147099,41.40506129999999,Tuesday,May
+31689,06-05-2011 00:00,Automovil,Volkswagen,Golf 1.6 comfort aa,-70.56557915,-33.38489693,Friday,May
+31690,06-05-2011 00:00,Todo terreno,Suzuki,Grand nomade,-70.56194366,-33.414991,Friday,May
+31692,07-05-2011 00:00,Automovil,Chevrolet,Otra,-74.1195606,4.7514007000000005,Saturday,May
+31693,08-05-2011 00:00,Automovil,Toyota,Yaris gl,-67.1482257,18.4452438,Sunday,May
+31694,07-05-2011 00:00,Buses y taxibuses,Mercedes benz,O-500 rsd,-79.0382045,-2.8842387,Saturday,May
+31695,06-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.5560884,-33.447161699999995,Friday,May
+31696,09-05-2011 00:00,Station wagon,Mitsubishi,Outlander gl,-66.11828784,18.4660873,Monday,May
+31697,06-05-2011 00:00,Automovil,Toyota,Yaris gli,-70.72888805,-33.46616645,Friday,May
+31698,09-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-66.0320499,18.389956,Monday,May
+31699,09-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-70.6132311,-33.4350289,Monday,May
+31700,08-05-2011 00:00,Camioneta,Changan,Otra,-49.3744029,-20.8121352,Sunday,May
+31701,10-05-2011 00:00,Camioneta,Hyundai,Porter au,-66.1309116,18.3749285,Tuesday,May
+31702,10-05-2011 00:00,Station wagon,Chevrolet,Vivant ls mc 1.6 16v mtaw,-8.0183085,12.5860619,Tuesday,May
+31703,10-05-2011 00:00,Automovil,Chevrolet,Aveo iii ls hb 5p 1.4 mt,-72.1115386,-36.628930600000004,Tuesday,May
+31706,10-05-2011 00:00,Station wagon,Mitsubishi,Outlander glx,-68.1021619,44.669810999999996,Tuesday,May
+31707,11-05-2011 00:00,Station wagon,Hyundai,Santa fe 2.7 gl 4wd,-66.0415402,18.4482536,Wednesday,May
+31708,12-05-2011 00:00,Automovil,Kia,Otra,-89.2174428,13.737542600000001,Thursday,May
+31709,11-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-65.99743027,18.44319945,Wednesday,May
+31710,24-04-2011 00:00,Automovil,Citroen,Zx audace,2.1526832,41.406368799999996,Sunday,April
+31711,12-05-2011 00:00,Automovil,Samsung,Otra,-3.7045805,42.335847799999996,Thursday,May
+31712,13-05-2011 00:00,Automovil,Toyota,Celica liftback st,-2.1086042,37.506311600000004,Friday,May
+31713,13-05-2011 00:00,Automovil,Mazda,Otra,28.2802016,-25.707862,Friday,May
+31714,12-05-2011 00:00,Automovil,Chevrolet,Otra,4.3672468,49.517922600000006,Thursday,May
+31717,13-05-2011 00:00,Station wagon,Toyota,Rav4 std,-77.1180535,-11.830529499999999,Friday,May
+31718,13-05-2011 00:00,Station wagon,Hyundai,Santa fe 2.7 gl 4wd,-56.4856279,-21.1292185,Friday,May
+31719,13-05-2011 00:00,Station wagon,Kia,Otra,-76.94147496,-12.22695975,Friday,May
+31720,15-05-2011 00:00,Automovil,Mazda,Otra,-99.2274399,19.3751776,Sunday,May
+31722,14-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-4.138499487,42.28789045,Saturday,May
+31723,15-05-2011 00:00,Automovil,Toyota,Rav4 std,-70.59784207,-33.4292817,Sunday,May
+31725,13-05-2011 00:00,Camioneta,Nissan,Terrano,-0.4458174,38.41704489999999,Friday,May
+31726,14-05-2011 00:00,Todo terreno,Suzuki,Grand nomade,-70.50450955,-33.39100861,Saturday,May
+31728,16-05-2011 00:00,Station wagon,Toyota,Rav4 std,-6.3561486,38.9092515,Monday,May
+31729,17-05-2011 00:00,Automovil,Volkswagen,Otra,-8.0183085,12.5860619,Tuesday,May
+31730,16-05-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mtc aw,-70.5827894,-33.46033189999999,Monday,May
+31731,16-05-2011 00:00,Automovil,Mazda,Otra,-70.6180304,-33.4454457,Monday,May
+31732,12-05-2011 00:00,Automovil,Chevrolet,Otra,-1.9479931,38.958869799999995,Thursday,May
+31733,16-05-2011 00:00,Station wagon,Toyota,Rav4 std,-46.4946597,-23.5211582,Monday,May
+31734,17-05-2011 00:00,Automovil,Toyota,4runner,-0.430055289,38.3561196,Tuesday,May
+31735,17-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-99.1377394,19.4373885,Tuesday,May
+31736,17-05-2011 00:00,Automovil,Chevrolet,Aveo ii lt hb 5p 1.4 mtac,-66.2300257,18.4051267,Tuesday,May
+31737,17-05-2011 00:00,Automovil,Honda,Otra,6.6414315,44.890649700000004,Tuesday,May
+31738,16-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-58.3871187,-34.7516131,Monday,May
+31739,18-05-2011 00:00,Station wagon,Jeep,New cherokee limited dsl,-79.8914768,-2.1916277,Wednesday,May
+31740,17-05-2011 00:00,Automovil,Suzuki,Mastervan sk 413 glx,-72.1272529,-36.6057493,Tuesday,May
+31741,19-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,2.2556446,41.9287611,Thursday,May
+31743,18-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-53.8222454,-29.6990083,Wednesday,May
+31744,18-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at 2wd,-37.0846606,-7.6949019,Wednesday,May
+31745,19-05-2011 00:00,Camioneta,Hyundai,Otra,-70.6666424,-33.3379248,Thursday,May
+31746,18-05-2011 00:00,Camioneta,Kia motors,Frontier ii 2.5 plus chdh,-70.7053309,-33.368683600000004,Wednesday,May
+31747,19-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-72.1115386,-36.628930600000004,Thursday,May
+31748,20-05-2011 00:00,Automovil,Peugeot,Otra,-46.63428729,-23.551249600000002,Friday,May
+31749,19-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-72.1272529,-36.6057493,Thursday,May
+31750,19-05-2011 00:00,Automovil,Suzuki,Alto 1.1,-2.6317242,36.7301386,Thursday,May
+31751,20-05-2011 00:00,Automovil,Nissan,V16 ex 1.6 sedan,-66.7016119,18.265745000000003,Friday,May
+31752,20-05-2011 00:00,Automovil,Samsung,Otra,-74.786139,10.930005099999999,Friday,May
+31753,20-05-2011 00:00,Automovil,Peugeot,206 cc 1.6 16v aut.,-99.1796332,19.381883,Friday,May
+31755,20-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.59403179,-33.43871622,Friday,May
+31756,23-05-2011 00:00,Camioneta,Toyota,Hilux,-70.4383757,-23.4456716,Monday,May
+31757,21-05-2011 00:00,Todo terreno,Suzuki,Grand nomade,-72.5855409,42.165874,Saturday,May
+31758,22-05-2011 00:00,Automovil,Samsung,Otra,-77.1358762,-11.8410448,Sunday,May
+31759,22-05-2011 00:00,Automovil,Toyota,Yaris gl,-71.54570167,-16.38754575,Sunday,May
+31760,24-05-2011 00:00,Camioneta,Toyota,Hilux d/c,-1.901708566,38.97132125,Tuesday,May
+31761,24-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-75.5817583,6.2420823,Tuesday,May
+31762,24-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-75.5746038,6.225037,Tuesday,May
+31763,24-05-2011 00:00,Station wagon,Jeep,Compass limited 2.4 at,-70.59668845,-33.40136921,Tuesday,May
+31764,24-05-2011 00:00,Automovil,Samsung,Sm3 entry mec.,-75.7192966,-14.090247699999999,Tuesday,May
+31765,25-05-2011 00:00,Automovil,Toyota,Yaris gl,-72.9728867,41.512583299999996,Wednesday,May
+31767,24-05-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mtac,3.0602686,46.5906519,Tuesday,May
+31768,20-05-2011 00:00,Automovil,Hyundai,Accent mc 1.4 gl ps,-78.128754,0.32775709999999997,Friday,May
+31769,25-05-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mtc aw,-74.1975377,-13.175675199999997,Wednesday,May
+31772,26-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-79.0041133,-8.1007695,Thursday,May
+31773,27-05-2011 00:00,Automovil,Volkswagen,Bora trendline at,-79.8342896,-6.747364500000001,Friday,May
+31774,28-05-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-99.1943132,19.303310699999997,Saturday,May
+31775,27-05-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-77.1268464,-12.0590319,Friday,May
+31776,27-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.5926298,-33.426226,Friday,May
+31778,27-05-2011 00:00,Camioneta,Toyota,Hilux c/s 1.8 std,-79.8850353,-2.2429419,Friday,May
+31779,24-05-2011 00:00,Automovil,Hyundai,Accent mc 1.4 gl ps,-70.5303807,-33.462266,Tuesday,May
+31780,27-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at 2wd,-79.8450929,-6.787425900000001,Friday,May
+31781,27-05-2011 00:00,Station wagon,Subaru,Outback 2.5 at am,34.52234301,7.537675,Friday,May
+31783,28-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 glx,-70.6022679,-33.4498703,Saturday,May
+31784,28-05-2011 00:00,Camioneta,Toyota,Hilux,12.3161968,41.7607116,Saturday,May
+31785,30-05-2011 00:00,Camioneta,Nissan,Terrano pick up dxs,-90.7241383,14.547566699999999,Monday,May
+31787,30-05-2011 00:00,Camioneta,Nissan,Terrano dx 4x4,-70.6674555,-33.5394854,Monday,May
+31788,28-05-2011 00:00,Automovil,Kia motors,Rio jb 1.4 ex mt dh,-89.2294487,13.693768799999999,Saturday,May
+31789,30-05-2011 00:00,Automovil,Chery,Iq 1100 mec full,-83.7072239,22.6161053,Monday,May
+31794,30-05-2011 00:00,Automovil,Toyota,Yaris gli,12.46534207,41.83094045,Monday,May
+31795,31-05-2011 00:00,Automovil,Subaru,New impreza sdn 2.0 mt rx,-72.0874891,-36.6288906,Tuesday,May
+31796,30-05-2011 00:00,Automovil,Suzuki,Otra,-72.1074648,-36.621851299999996,Monday,May
+31797,28-05-2011 00:00,Automovil,Great wall,Deer 4x2,-68.08204069,-16.505609200000002,Saturday,May
+31798,02-06-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies full,-84.2400638,10.105250199999999,Thursday,June
+31799,01-05-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 at,-4.2341239,39.608564799999996,Sunday,May
+31800,02-06-2011 00:00,Automovil,Subaru,B9 tribeca 3.0 awd at,-8.863389605,51.6654088,Thursday,June
+31801,02-06-2011 00:00,Automovil,Toyota,Yaris sedan xli,-71.6069693,-33.6030597,Thursday,June
+31804,04-06-2011 00:00,Automovil,Toyota,Yaris gl,-70.5570569,-33.3985962,Saturday,June
+31805,08-01-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-72.5987082,-38.7665055,Saturday,January
+31806,03-01-2011 00:00,Camioneta,Mazda,Bt-50 2.5 dc dx 4x4,-70.5533457,-33.3906871,Monday,January
+31807,04-01-2011 00:00,Automovil,Toyota,Yaris gl,-58.41938871,-34.57201115,Tuesday,January
+31810,08-01-2011 00:00,Station wagon,Subaru,Legacy 2.0i gl 4wd,-70.65425976,-33.53968894,Saturday,January
+31811,14-01-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-4.4216365,36.7213028,Friday,January
+31812,19-01-2011 00:00,Todo terreno,Suzuki,Grand nomade,1.687224,41.222344899999996,Wednesday,January
+31815,25-01-2011 00:00,Automovil,Citroen,Berlingo multispace 1ab,-16.8851357,28.328876899999997,Tuesday,January
+31817,27-01-2011 00:00,Automovil,Toyota,Yaris sport gli,-68.9306333,-22.4491146,Thursday,January
+31819,28-01-2011 00:00,Automovil,Citroen,Xsara vts 16v,-70.698311,-33.458998,Friday,January
+31820,29-01-2011 00:00,Camioneta,Mitsubishi,L200,-122.1265336,37.7004321,Saturday,January
+31821,30-01-2011 00:00,Camiones,Hyundai,Camion porter 2 ton. 4x2,-70.68071665,-33.50859248,Sunday,January
+31822,31-01-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 2.4 ac bu,-57.8440383,-34.4654944,Monday,January
+31823,02-02-2011 00:00,Automovil,Chevrolet,Vivant ls mc 1.6 16v mtaw,-70.586072,-33.4176926,Wednesday,February
+31824,03-02-2011 00:00,Todo terreno,Suzuki,Nomade,-70.5405888,-33.5198576,Thursday,February
+31825,04-02-2011 00:00,Station wagon,Subaru,Impreza 1.6 gl,-53.7531199,-29.702417200000003,Friday,February
+31826,17-02-2011 00:00,Automovil,Nissan,V16,-70.6822981,-33.41438047,Thursday,February
+31827,17-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.8245729,-33.4455868,Thursday,February
+31828,17-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.6538736,-33.4459867,Thursday,February
+31832,24-02-2011 00:00,Automovil,Peugeot,206 fun 1.4,-72.3412907,-37.4631757,Thursday,February
+31833,25-02-2011 00:00,Automovil,Toyota,Yaris gl,-53.71803621,-29.6992587,Friday,February
+31835,25-02-2011 00:00,Camioneta,Nissan,Terrano,-71.6277764,-35.425096999999994,Friday,February
+31837,27-02-2011 00:00,Station wagon,Subaru,Outback 2.5 at am,-89.23218205,13.69495355,Sunday,February
+31838,01-03-2011 00:00,Camioneta,Toyota,Rav4 std,-75.71245767,4.80831485,Tuesday,March
+31840,04-03-2011 00:00,Station wagon,Mitsubishi,Montero 3.0 ie wagon,-75.58681406,6.243633900000001,Friday,March
+31841,04-03-2011 00:00,Furgon,Chevrolet,Combo van 5p 1.6 pl,-66.9106351,10.4978862,Friday,March
+31842,09-03-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-70.5399117,-33.4381395,Wednesday,March
+31843,09-03-2011 00:00,Station wagon,Chevrolet,Optra ii ls nb 1.6 mt ac,-58.6468029,-34.531589399999994,Wednesday,March
+31845,09-03-2011 00:00,Automovil,Peugeot,307 coupe 1.6 mec.,-58.1964414,-32.664901799999996,Wednesday,March
+31846,13-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-3.1541557,40.6286208,Sunday,March
+31848,15-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.8526136,-33.6042467,Tuesday,March
+31849,15-03-2011 00:00,Station wagon,Ssangyong,Otra,-70.5158911,-33.40315886,Tuesday,March
+31850,17-03-2011 00:00,Automovil,Chevrolet,Otra,2.7106897,48.264875700000005,Thursday,March
+31852,19-03-2011 00:00,Automovil,Mazda,323 hb glx,-70.5935064,-33.4426663,Saturday,March
+31854,20-03-2011 00:00,Furgon,Peugeot,Partner break,20.3804522,43.8987098,Sunday,March
+31855,24-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,-51.21340857,-30.06053615,Thursday,March
+31856,26-03-2011 00:00,Camioneta,Nissan,Terrano,-78.4519661,-0.08928029999999999,Saturday,March
+31857,27-03-2011 00:00,Station wagon,Ford,Explorer,-51.9672353,-22.827196100000002,Sunday,March
+31859,29-03-2011 00:00,Camioneta,Nissan,Terrano,-70.60263196,-33.50912204,Tuesday,March
+31860,29-03-2011 00:00,Automovil,Hyundai,H-1 2.4 svx 7s,-79.2407145,-3.6216939,Tuesday,March
+31861,29-03-2011 00:00,Automovil,Samsung,Sm3 entry aut.,98.9490291,18.7481257,Tuesday,March
+31862,29-03-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-75.18887163,-51.444764899999996,Tuesday,March
+31863,29-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6907198,-33.4987174,Tuesday,March
+31864,30-03-2011 00:00,Station wagon,Kia motors,Sorento ex 2.5 at ac 4x4,-71.4249033,-33.07397580000001,Wednesday,March
+31865,30-03-2011 00:00,Automovil,Citroen,C-2 1.6 16v vtr sen.,-80.360769,25.6871383,Wednesday,March
+31868,04-04-2011 00:00,Automovil,Suzuki,Maruti,-5.5944945,42.5958393,Monday,April
+31870,05-04-2011 00:00,Minibus,Hyundai,H1 2.4 hsv 7s at sr,-70.5944505,-33.473737199999995,Tuesday,April
+31871,06-04-2011 00:00,Automovil,Toyota,Yaris gl,-63.17338504,-17.77228425,Wednesday,April
+31872,06-04-2011 00:00,Automovil,Chevrolet,Corsa evol gls nb 1.8 ac,-70.5956934,-33.5182566,Wednesday,April
+31873,07-04-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-58.7143529,-34.6935601,Thursday,April
+31874,07-04-2011 00:00,Automovil,Toyota,Yaris gl,-103.4173635,25.540125,Thursday,April
+31875,07-04-2011 00:00,Todo terreno,Kia motors,Sorento ex 2.5 at ac 4x4,-83.9399344,9.8437004,Thursday,April
+31876,07-04-2011 00:00,Station wagon,Honda,Cr-v 2.0,-72.0898363,-36.4888187,Thursday,April
+31879,14-04-2011 00:00,Automovil,Hyundai,H1 2.4 hsv 7s at sr,-70.66036965,-33.5023515,Thursday,April
+31880,15-04-2011 00:00,Automovil,Toyota,Yaris gl,-100.3289114,25.7078663,Friday,April
+31881,18-04-2011 00:00,Automovil,Mazda,Mazda6 hatchback r grade,-70.6118215,-33.419075,Monday,April
+31882,20-04-2011 00:00,Station wagon,Suzuki,Sx4 1.6 glx automat sport,19.3450717,47.5937646,Wednesday,April
+31883,20-04-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-73.06235,-36.8171527,Wednesday,April
+31884,21-04-2011 00:00,Automovil,Toyota,Camry 2.0 le,-81.0718779,29.305856,Thursday,April
+31885,29-04-2011 00:00,Automovil,Mitsubishi,L200,-62.110687,-30.5264076,Friday,April
+31886,29-04-2011 00:00,Station wagon,Mitsubishi,Outlander gl,-81.0718779,29.305856,Friday,April
+31893,24-12-2010 00:00,Camioneta,Nissan,Terrano ax 4x4,-70.57860897,-33.42019379,Friday,December
+31894,21-02-2011 00:00,Camioneta,Nissan,Terrano ax 4x4,-70.5913697,-33.4361771,Monday,February
+31978,11-03-2011 00:00,Semiremolques (carroceria plana),Otra,Otra,-66.72063736,18.05552175,Friday,March
+32095,21-04-2011 00:00,Furgon,Hyundai,Van h-1 hsv,-67.4580266,-45.8188867,Thursday,April
+32096,28-04-2011 00:00,Station wagon,Suzuki,Grand nomade,174.7872801,-36.9693581,Thursday,April
+32097,30-04-2011 00:00,Automovil,Audi,A3 1.8t,-6.4406281,37.389482,Saturday,April
+32098,29-04-2011 00:00,Automovil,Hyundai,Accent 1.6 gls 16v,-71.6730993,-35.41977205,Friday,April
+32100,30-04-2011 00:00,Camioneta,Nissan,Terrano dx tdi 4x2,-117.9032727,33.971745500000004,Saturday,April
+32101,01-05-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-104.9627908,21.540648,Sunday,May
+32102,26-04-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d 4wd ac,-78.0534201,0.13719260000000003,Tuesday,April
+32103,04-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-100.7612144,46.8245086,Wednesday,May
+32104,01-05-2011 00:00,Camioneta,Kia motors,Frontier ii 2.5 plus chdh,-5.109193,42.626894799999995,Sunday,May
+32106,04-05-2011 00:00,Camioneta,Toyota,Hilux,-70.6666424,-33.3379248,Wednesday,May
+32108,03-05-2011 00:00,Automovil,Hyundai,Accent 1.6 gls 16v,-70.58406395,-33.55188199,Tuesday,May
+32111,07-05-2011 00:00,Camioneta,Nissan,D21 d/c,-70.7071765,-33.4324649,Saturday,May
+32112,30-04-2011 00:00,Station wagon,Hyundai,Terracan 2.9 gl (crdi),-70.61159693,-33.427867600000006,Saturday,April
+32113,06-05-2011 00:00,Automovil,Toyota,Yaris gli,-1.8949512,41.2965036,Friday,May
+32115,01-02-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.5879999,-33.4289332,Tuesday,February
+32116,09-05-2011 00:00,Automovil,Toyota,Yaris sedan xli,-66.5503859,18.391944,Monday,May
+32118,08-04-2011 00:00,Camioneta,Nissan,Navara 4x4 d/c dies at cu,-67.5699328,-46.4397843,Friday,April
+32119,10-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6173093,-33.4206735,Tuesday,May
+32120,10-05-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.5 4wd dab,-2.5740809,42.439755,Tuesday,May
+32121,02-05-2011 00:00,Camioneta,Mitsubishi,L200 d/c t.dsl katana 4x4,-66.6201833,-26.2597617,Monday,May
+32122,12-05-2011 00:00,Automovil,Toyota,Yaris gli,-72.5408408,-36.282732200000005,Thursday,May
+32123,11-05-2011 00:00,Station wagon,Kia motors,Grand carnival dsl aut ac,-115.4666134,32.60496955,Wednesday,May
+32124,28-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-5.0069286,41.1417529,Monday,March
+32125,07-05-2011 00:00,Camioneta,Toyota,Hilux diesel sr 4x4,-60.67991761,-32.95039777,Saturday,May
+32126,11-05-2011 00:00,Camioneta,Nissan,Terrano ax 4x4 d/c,-0.5123802,38.3423708,Wednesday,May
+32127,15-05-2011 00:00,Automovil,Nissan,V16,2.5696977,46.8853506,Sunday,May
+32128,12-05-2011 00:00,Camioneta,Zx,Otra,-57.8893829,-34.8625114,Thursday,May
+32129,16-05-2011 00:00,Automovil,Hyundai,Accent gl,-70.68270056,-33.41679118,Monday,May
+32130,17-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-75.8289949,20.028893,Tuesday,May
+32132,04-05-2011 00:00,Camioneta,Nissan,Navara 4x4 c/s diesel,-70.650495,-33.3888769,Wednesday,May
+32134,12-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-66.8617689,10.506066699999998,Thursday,May
+32135,17-03-2011 00:00,Camioneta,Nissan,Navara se 4x4,-113.3006335,31.916768800000003,Thursday,March
+32136,12-05-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.53739086,-33.38404756,Thursday,May
+32137,17-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.59200702,-33.39188011,Tuesday,May
+32138,18-05-2011 00:00,Camioneta,Toyota,Hilux,-70.3889441,-23.64043861,Wednesday,May
+32139,18-05-2011 00:00,Camioneta,Toyota,Hilux,-75.7228778,-14.0835208,Wednesday,May
+32140,19-05-2011 00:00,Automovil,Suzuki,Maruti,-70.5529023,-33.4199628,Thursday,May
+32142,17-05-2011 00:00,Automovil,Kia motors,Rio jb 1.4 lx mt,-70.63258615,-33.45396532,Tuesday,May
+32143,21-05-2011 00:00,Automovil,Citroen,C-3 1.4,-55.9121565,-27.4326744,Saturday,May
+32144,20-05-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.66913544,-33.53740131,Friday,May
+32145,19-05-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-57.5919359,-25.3189693,Thursday,May
+32146,20-05-2011 00:00,Camioneta,Nissan,Navara le 4x4,-73.2330833,-39.8188718,Friday,May
+32149,25-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-5.3926616,40.3562448,Wednesday,May
+32151,29-05-2011 00:00,Automovil,Toyota,Yaris sport xli,6.1434281,49.538534399999996,Sunday,May
+32164,07-01-2011 00:00,Camioneta,Nissan,D21 d/c,-79.1643966,-0.26180349999999997,Friday,January
+32166,07-01-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-89.2051725,13.6969775,Friday,January
+32168,14-01-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-2.0473537,38.4516244,Friday,January
+32170,20-01-2011 00:00,Camioneta,Volkswagen,Gol 1.8 pick-up (ds),-70.5488382,-33.3920044,Thursday,January
+32171,30-01-2011 00:00,Station wagon,Toyota,Rav4 std,-70.533115,-33.383210999999996,Sunday,January
+32172,26-01-2011 00:00,Automovil,Nissan,Primera gxe,-64.3483024,-33.1186426,Wednesday,January
+32173,31-01-2011 00:00,Station wagon,Toyota,Rav4 std,-67.0395954,10.5955076,Monday,January
+32174,01-02-2011 00:00,Automovil,Hyundai,Accent gls ac,-8.9733514,39.8724359,Tuesday,February
+32175,05-02-2011 00:00,Station wagon,Hyundai,Veracruz 3.8 gls 4wdfull,-70.5967678,-33.456771999999994,Saturday,February
+32176,15-07-2010 00:00,Station wagon,Nissan,Terrano,-71.5223836,-35.7156915,Thursday,July
+32177,11-02-2011 00:00,Automovil,Nissan,Primera gx,-71.4272494,-33.0746192,Friday,February
+32178,14-02-2011 00:00,Automovil,Mercedes benz,C 280,-89.29915183,13.67334095,Monday,February
+32179,16-02-2011 00:00,Automovil,Mg,550 1.8t at,-78.4923231,-0.1427731,Wednesday,February
+32180,17-02-2011 00:00,Station wagon,Subaru,Outback 2.5i awd at ltd,-70.54575094,-33.44622917,Thursday,February
+32181,19-02-2011 00:00,Automovil,Subaru,New legacy 2.0i 4d awd at,-98.5125539,29.3526276,Saturday,February
+32182,27-02-2011 00:00,Automovil,Ford,Focus clx 4dr,-70.68983727,-33.52048115,Sunday,February
+32183,27-02-2011 00:00,Station wagon,Toyota,Rav4 std,-70.587776,-33.4025411,Sunday,February
+32184,25-02-2011 00:00,Station wagon,Suzuki,Grand nomade xl7,-63.6667796,-37.1361022,Friday,February
+32185,25-02-2011 00:00,Automovil,Hyundai,Accent gl,-78.55971956,-0.32435640000000004,Friday,February
+32186,08-03-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-73.0026246,-36.839474100000004,Tuesday,March
+32187,09-03-2011 00:00,Camioneta,Nissan,Terrano dx 4x2,-70.5608859,-33.5265524,Wednesday,March
+32188,10-03-2011 00:00,Automovil,Kia motors,Pride 1.3 gl,-9.134161795,38.70894395,Thursday,March
+32189,11-03-2011 00:00,Automovil,Hyundai,Elantra 1.6 gls,-2.938209514,43.2656175,Friday,March
+32190,13-03-2011 00:00,Todo terreno,Mitsubishi,Montero 2 p,6.45295,47.1934,Sunday,March
+32191,15-03-2011 00:00,Automovil,Hyundai,Getz 1.3 gl 1ab,-70.5861166,-33.4111925,Tuesday,March
+32192,12-03-2011 00:00,Automovil,Suzuki,Maruti,-13.6577358,28.949834399999997,Saturday,March
+32193,15-03-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d 4wd,-70.5059579,-33.3964656,Tuesday,March
+32195,30-03-2011 00:00,Automovil,Volkswagen,Golf 1.6,-73.1696299,-38.7146158,Wednesday,March
+32197,06-04-2011 00:00,Automovil,Volkswagen,Bora 1.8 t/180 sportline,-70.5424561,-33.4110629,Wednesday,April
+32198,08-04-2011 00:00,Automovil,Mazda,Mazda3 sport s,-70.5673392,-33.388436199999994,Friday,April
+32199,18-01-2011 00:00,Todo terreno,Suzuki,Vitara jx,-70.5858272,-33.4667023,Tuesday,January
+32200,04-06-2011 00:00,Automovil,Toyota,Yaris gl,-79.5452033,22.4958795,Saturday,June
+32203,06-06-2011 00:00,Automovil,Toyota,Yaris xli,-70.58771374,-33.43407705,Monday,June
+32206,07-06-2011 00:00,Automovil,Chevrolet,Aveo ls nb 1.4 16v mt,-73.1728337,-40.5849601,Tuesday,June
+32207,06-06-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.2542299,8.62385,Monday,June
+32208,07-06-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-3.7443987,39.0179946,Tuesday,June
+32209,07-06-2011 00:00,Camioneta,Nissan,Terrano pick up ax dies,-60.65738301,-32.89232505,Tuesday,June
+32210,08-06-2011 00:00,Automovil,Toyota,Yaris gl,8.3846514,53.1044655,Wednesday,June
+32213,07-06-2011 00:00,Automovil,Proton,Persona 1.3 gli,-74.0519409,4.7173048,Tuesday,June
+32215,07-06-2011 00:00,Camioneta,Nissan,Terrano d/c 4x2 aa,-56.7991287,-33.725859899999996,Tuesday,June
+32216,08-06-2011 00:00,Camioneta,Toyota,Hilux d/c dlx 4wd,-97.51852658,35.45734795,Wednesday,June
+32217,01-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6318779,-33.4322594,Saturday,January
+32218,02-01-2011 00:00,Station wagon,Toyota,4runner sr,-63.1132797,-17.8024631,Sunday,January
+32219,02-01-2011 00:00,Automovil,Suzuki,Sx4 1.6 glx sport,-78.7356406,21.903678600000003,Sunday,January
+32220,01-01-2011 00:00,Automovil,Toyota,Yaris gl,-71.2709132,-29.878504,Saturday,January
+32222,02-01-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-58.5837073,-34.8437794,Sunday,January
+32223,02-01-2011 00:00,Camiones,Mitsubishi,Canter 3 5 �ĉ�� 4 ton.,-103.1926399,32.790976,Sunday,January
+32224,03-01-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d ac,-72.0398188,-37.11617329999999,Monday,January
+32225,05-01-2011 00:00,Station wagon,Mitsubishi,Outlander gls 2wd,-70.3745348,-23.6208032,Wednesday,January
+32226,03-01-2011 00:00,Automovil,Toyota,Rav4 std,-70.5849541,-33.3948069,Monday,January
+32227,06-01-2011 00:00,Automovil,Toyota,Yaris gl,-76.8047583,-11.985505900000001,Thursday,January
+32228,05-01-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5471716,-33.444103999999996,Wednesday,January
+32230,06-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5363243,-33.3845856,Thursday,January
+32231,07-01-2011 00:00,Automovil,Toyota,Yaris gl,-71.2416234,-29.930492699999995,Friday,January
+32232,06-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.57634915,-33.41795564,Thursday,January
+32233,06-01-2011 00:00,Camiones,Ford,Pampa 500kg. 4wd,-75.058121,5.3937737,Thursday,January
+32234,08-01-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-66.1666669,8.683333,Saturday,January
+32235,09-01-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.7713082,-33.43667,Sunday,January
+32236,08-01-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d ac,-58.6698191,-34.44640510000001,Saturday,January
+32237,07-01-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.76933364,-33.48923335,Friday,January
+32239,10-01-2011 00:00,Automovil,Toyota,Yaris gl,-63.946008,-34.511593299999994,Monday,January
+32240,10-01-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,50.9668673,35.694349200000005,Monday,January
+32241,06-01-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-71.4258374,-33.0692012,Thursday,January
+32242,08-01-2011 00:00,Automovil,Chevrolet,Vivant ls mc 1.6 16v mtaw,-71.4692392,-33.0491498,Saturday,January
+32243,11-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.6728527,-33.3701766,Tuesday,January
+32244,11-01-2011 00:00,Automovil,Toyota,Yaris gl,-61.3482583,-30.869510700000003,Tuesday,January
+32245,12-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-102.9940519,23.339405499999998,Wednesday,January
+32246,10-01-2011 00:00,Station wagon,Audi,Q7 3.0,-16.2407082,28.4844032,Monday,January
+32247,12-01-2011 00:00,Automovil,Suzuki,Grand nomade 2.0 glx spac,-70.4005064,-23.5274832,Wednesday,January
+32248,12-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.5627499,-33.4037114,Wednesday,January
+32249,12-01-2011 00:00,Todo terreno,Ford,Explorer sport 4x4 4.0l,-60.050865,-3.0977330000000003,Wednesday,January
+32250,12-01-2011 00:00,Automovil,Chevrolet,Vivant ls mc 1.6 16v mtaw,-70.66247508,-33.44299832,Wednesday,January
+32251,12-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.55352051,-33.39784617,Wednesday,January
+32252,12-01-2011 00:00,Automovil,Toyota,Yaris gl,-73.8356239,-41.882834499999994,Wednesday,January
+32253,14-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5921264,-33.3894813,Friday,January
+32254,09-01-2011 00:00,Automovil,Mazda,Mazda3 sedan s,-71.405324,-33.0454217,Sunday,January
+32255,14-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6470848,-33.3803163,Friday,January
+32256,12-01-2011 00:00,Camiones,Kia motors,Frontier 2.7 plus c/s,9.1980325,49.2145317,Wednesday,January
+32258,13-01-2011 00:00,Todo terreno,Hyundai,Tucson 2.0 gl at abs 2ab,-101.2236344,19.6779742,Thursday,January
+32259,14-01-2011 00:00,Camiones,Hino,Ft-1jeua,-77.8124049,-0.9194059000000001,Friday,January
+32261,14-01-2011 00:00,Camioneta,Mitsubishi,L200,-65.78224019,-47.3460126,Friday,January
+32262,14-01-2011 00:00,Automovil,Suzuki,Swift 1.5 gl ac,-72.3449236,-37.46089310000001,Friday,January
+32263,14-01-2011 00:00,Camioneta,Nissan,Terrano ax 4x2,-3.8284727,40.232143799999996,Friday,January
+32264,15-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-55.8676405,-27.4485995,Saturday,January
+32265,16-01-2011 00:00,Automovil,Volkswagen,Jetta,-2.032665,42.3519682,Sunday,January
+32266,16-01-2011 00:00,Camioneta,Dodge,Caliber 1.8 mt,-120.6068534,35.3919939,Sunday,January
+32267,17-01-2011 00:00,Automovil,Volkswagen,Jetta,-70.5904998,-33.420486600000004,Monday,January
+32268,16-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-91.51257513,14.84533245,Sunday,January
+32269,17-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.53020826,-33.39059925,Monday,January
+32270,15-01-2011 00:00,Automovil,Toyota,Yaris gl,-73.1668075,-37.0852189,Saturday,January
+32271,12-01-2011 00:00,Station wagon,Nissan,X-trail s 4x4,-70.3948673,-23.5536311,Wednesday,January
+32272,14-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.2292042,-29.8723158,Friday,January
+32273,13-01-2011 00:00,Automovil,Chevrolet,Corsa extr nb 1.6 pwr ltd,-70.5280502,-33.3307128,Thursday,January
+32274,15-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-3.5231153,36.7240406,Saturday,January
+32275,17-01-2011 00:00,Automovil,Toyota,Yaris gli,-70.2433744,-33.186642600000006,Monday,January
+32276,17-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.590836,-33.39773889999999,Monday,January
+32277,18-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.619679,-33.4212658,Tuesday,January
+32278,18-01-2011 00:00,Automovil,Kia motors,New cerato lx ac,-70.6442467,-33.3912007,Tuesday,January
+32279,17-01-2011 00:00,Automovil,Kia motors,Otra,-70.67657864,-33.492736,Monday,January
+32280,16-01-2011 00:00,Automovil,Subaru,Legacy 2.5i 4d 4wd lsi at,-70.5706252,-33.5527438,Sunday,January
+32281,19-01-2011 00:00,Minibus,Hyundai,Van h-1 hsv,-7.40512,37.3237041,Wednesday,January
+32282,19-01-2011 00:00,Camiones,Kia motors,Frontier 2.7 plus c/s,15.0502758,12.1191543,Wednesday,January
+32283,19-01-2011 00:00,Furgon,Citroen,Berlingo,-70.65314869,-33.46076679,Wednesday,January
+32284,20-01-2011 00:00,Todo terreno,Kia motors,Sportage,-97.4258745,20.5147615,Thursday,January
+32285,20-01-2011 00:00,Camioneta,Hyundai,Porter,-70.654485,-33.4079671,Thursday,January
+32286,20-01-2011 00:00,Furgon,Suzuki,Apv van,-70.654485,-33.4079671,Thursday,January
+32287,18-01-2011 00:00,Automovil,Volkswagen,Golf r32,9.0715003,52.7686056,Tuesday,January
+32288,19-01-2011 00:00,Camioneta,Nissan,Terrano,-70.5869722,-33.3911243,Wednesday,January
+32289,19-01-2011 00:00,Todo terreno,Subaru,Forester 2.0 awd turbo,-116.8721134,32.5296553,Wednesday,January
+32290,21-01-2011 00:00,Automovil,Toyota,Yaris gli,-70.6781329,-33.356801399999995,Friday,January
+32291,18-01-2011 00:00,Minibus,Hyundai,H1 2.4 hsv 7s at sr,-79.1514252,34.9878791,Tuesday,January
+32292,20-01-2011 00:00,Automovil,Toyota,Yaris gl,-97.1862093,20.1942656,Thursday,January
+32294,20-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-37.3983191,-6.7611431,Thursday,January
+32295,21-01-2011 00:00,Automovil,Peugeot,206 cc 1.6 16v aut.,-69.67306782,18.4293511,Friday,January
+32296,20-01-2011 00:00,Automovil,Toyota,Yaris xli,-87.8260517,14.2886187,Thursday,January
+32297,20-01-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-72.019397,-35.092729,Thursday,January
+32298,22-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6323706,-33.4340135,Saturday,January
+32299,12-01-2011 00:00,Camioneta,Toyota,Hilux d/c,-70.54933747,-33.38317587,Wednesday,January
+32300,24-01-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,-70.0118232,-32.6529484,Monday,January
+32301,23-01-2011 00:00,Automovil,Great wall,Deer 4x2,-44.839757,-20.1361111,Sunday,January
+32302,21-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-100.4270033,17.0856181,Friday,January
+32303,23-01-2011 00:00,Camioneta,Nissan,Otra,-0.4403373,39.1864526,Sunday,January
+32304,20-01-2011 00:00,Automovil,Nissan,V16,-70.7162679,-33.4151179,Thursday,January
+32305,20-01-2011 00:00,Automovil,Nissan,V16 ex 1.6 sedan,-70.7162679,-33.4151179,Thursday,January
+32307,21-01-2011 00:00,Automovil,Suzuki,Swift gl,-70.6073155,-33.4955473,Friday,January
+32308,23-01-2011 00:00,Automovil,Mitsubishi,Otra,-81.490843,12.8086902,Sunday,January
+32310,25-01-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-65.0062677,-31.7248167,Tuesday,January
+32311,21-01-2011 00:00,Automovil,Samsung,Sm3 pe at (entry),-70.6573484,-33.4787402,Friday,January
+32312,25-01-2011 00:00,Camioneta,Toyota,Yaris gl,-67.5072025,-29.151912199999998,Tuesday,January
+32313,25-01-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-71.2146649,-30.6041059,Tuesday,January
+32314,25-01-2011 00:00,Automovil,Alfa romeo,Alfa 33 1.3,-70.57214559,-33.4532485,Tuesday,January
+32315,25-01-2011 00:00,Furgon,Renault,Kerax 370.19 t,-70.74597804,-33.51626066,Tuesday,January
+32316,25-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-72.7941439,-46.949593,Tuesday,January
+32317,25-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-5.9981031,37.5271561,Tuesday,January
+32318,25-01-2011 00:00,Automovil,Toyota,Yaris gl,-4.0741953,40.469319,Tuesday,January
+32319,25-01-2011 00:00,Station wagon,Samsung,Sm3 pe at (entry),-52.1580901,-22.9329668,Tuesday,January
+32321,27-01-2011 00:00,Todo terreno,Toyota,Advantage 4wd,-79.3666964,-1.3397667,Thursday,January
+32322,27-01-2011 00:00,Automovil,Nissan,Terrano,-70.59780045,-33.42994455,Thursday,January
+32323,27-01-2011 00:00,Automovil,Hyundai,Getz 1.3 gl 2ab 3p mp3,-70.6699391,-33.40743086,Thursday,January
+32324,27-01-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-47.3058605,-22.7582106,Thursday,January
+32325,27-01-2011 00:00,Automovil,Ford taunus,Otra,-75.221488,5.1838481,Thursday,January
+32326,27-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-73.0639285,-36.8194239,Thursday,January
+32327,31-01-2011 00:00,Automovil,Toyota,Rav4 lujo,-90.5914425,14.569297199999998,Monday,January
+32328,31-01-2011 00:00,Automovil,Toyota,Yaris gl,-71.5159564,-32.922003499999995,Monday,January
+32329,31-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.5724046,-33.427008,Monday,January
+32330,31-01-2011 00:00,Automovil,Mazda,Mazda3 s br3rlaa,-71.5465335,-32.9294812,Monday,January
+32331,31-01-2011 00:00,Camioneta,Nissan,Navara 4x4 d/c diesel at,-68.8868691,-33.0025477,Monday,January
+32332,31-01-2011 00:00,Automovil,Toyota,Corolla,-70.5942606,-33.404723600000004,Monday,January
+32333,31-01-2011 00:00,Todo terreno,Kia motors,Sportage,-101.3378101,19.715785600000004,Monday,January
+32334,29-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,6.689846965,51.0778263,Saturday,January
+32335,31-01-2011 00:00,Automovil,Volkswagen,Golf r32,-58.8167829,-34.52773320000001,Monday,January
+32336,29-01-2011 00:00,Camiones,Hyundai,H-1 2.4 svx 7s,-70.6786699,-33.3665801,Saturday,January
+32337,01-02-2011 00:00,Todo terreno,Toyota,Rav4 std,-49.3862136,-16.6601928,Tuesday,February
+32338,31-01-2011 00:00,Automovil,Mazda,Mazda3 s br3rlaa,-70.6680953,-33.3394834,Monday,January
+32339,29-01-2011 00:00,Furgon,Hyundai,H1 2.4 hsv 7s at sr,-43.23275186,-22.8788134,Saturday,January
+32340,22-01-2011 00:00,Automovil,Toyota,Yaris gl,-70.41450034,-23.68524605,Saturday,January
+32341,02-02-2011 00:00,Automovil,Toyota,Yaris gl,-4.634462,40.8118343,Wednesday,February
+32342,02-02-2011 00:00,Furgon,Citroen,Berlingo,-116.6846795,32.6577937,Wednesday,February
+32343,01-02-2011 00:00,Automovil,Toyota,Yaris gl,-73.0528496,-36.8028648,Tuesday,February
+32344,02-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.5800215,-33.382548,Wednesday,February
+32345,01-02-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-72.7096853,-42.919940999999994,Tuesday,February
+32346,27-01-2011 00:00,Station wagon,Citroen,Berlingo multispace 1ab,-70.3083228,-18.4838754,Thursday,January
+32347,02-02-2011 00:00,Minibus,Suzuki,Grand nomade 2.0 glx spac,-121.9361944,37.3533529,Wednesday,February
+32348,02-02-2011 00:00,Todo terreno,Toyota,Advantage rav4 dx,-70.6211596,-33.4189844,Wednesday,February
+32349,03-02-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-70.5107303,-33.3454138,Thursday,February
+32351,03-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-83.2321479,34.237790999999994,Thursday,February
+32352,03-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5274663,-33.407458,Thursday,February
+32353,31-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-58.4805481,-34.6509644,Monday,January
+32354,31-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-58.4805481,-34.6509644,Monday,January
+32355,03-02-2011 00:00,Camioneta,Nissan,Terrano,-71.2455653,-29.910094,Thursday,February
+32356,04-02-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5606417,-33.60311779999999,Friday,February
+32357,04-02-2011 00:00,Automovil,Toyota,Yaris gl,-73.2381187,-39.8302239,Friday,February
+32360,03-02-2011 00:00,Automovil,Mazda,Mazda3 sedan s,-70.640549,-33.4011538,Thursday,February
+32362,04-02-2011 00:00,Camioneta,Zx,Landmark 4x2 gsl mt dab,10.09618637,46.69972935,Friday,February
+32363,04-02-2011 00:00,Todo terreno,Toyota,Land cruiser,-71.62495007,-33.66183265,Friday,February
+32364,05-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-73.2353213,-39.8389719,Saturday,February
+32365,05-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-94.9879827,29.598562,Saturday,February
+32366,04-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.4034171,-33.033031699999995,Friday,February
+32367,05-02-2011 00:00,Automovil,Toyota,Yaris gl,-73.0639285,-36.8194239,Saturday,February
+32368,05-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-84.139669,9.7220294,Saturday,February
+32369,04-02-2011 00:00,Camioneta,Nissan,D21 d/c std 4x2 md2112s,-58.44322324,-34.5889818,Friday,February
+32370,04-02-2011 00:00,Automovil,Dodge,Nitro se 3.7 v6 4x4,-74.1765479,4.585612,Friday,February
+32371,06-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.58562433,-33.440856,Sunday,February
+32372,06-02-2011 00:00,Furgon,Kia motors,Besta ambulan 2.7 mec,-70.58499429,-33.47374155,Sunday,February
+32373,07-02-2011 00:00,Station wagon,Toyota,Rav4 std,-63.5646303,-32.0372684,Monday,February
+32374,07-02-2011 00:00,Automovil,Citroen,C-3 1.4,-8.4860705,42.6897701,Monday,February
+32375,07-02-2011 00:00,Automovil,Toyota,Yaris gl,-71.6997224,-45.909393,Monday,February
+32376,08-02-2011 00:00,Motocicletas,Proton,Otra,-74.9999999,-11.7499999,Tuesday,February
+32378,08-02-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-58.3377069,-34.795564299999995,Tuesday,February
+32379,06-02-2011 00:00,Automovil,Ford,Ecosport xls 4x2 1.6l,-70.5445257,-33.493478499999995,Sunday,February
+32380,07-02-2011 00:00,Station wagon,Toyota,Rav4 std,-100.5,22.5000001,Monday,February
+32381,08-02-2011 00:00,Automovil,Toyota,Yaris gl,-72.7416549,-16.631259699999998,Tuesday,February
+32382,07-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,12.4528349,41.9034912,Monday,February
+32383,08-02-2011 00:00,Todo terreno,Toyota,Rav4 std,-68.91499901,-37.3865902,Tuesday,February
+32384,08-02-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-43.4111133,-21.7158129,Tuesday,February
+32385,08-02-2011 00:00,Automovil,Toyota,Yaris gl,-54.44050367,-25.69312475,Tuesday,February
+32386,08-02-2011 00:00,Station wagon,Toyota,Rav4 std,-70.6030245,-33.4439563,Tuesday,February
+32388,09-02-2011 00:00,Furgon,Hyundai,H1 2.4 hsv 7s at sr,-70.7777706,-33.5292527,Wednesday,February
+32389,09-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.6246964,-33.4558415,Wednesday,February
+32390,09-02-2011 00:00,Automovil,Suzuki,Swift 1.5 gl ac,-70.5962516,-33.5841594,Wednesday,February
+32391,10-02-2011 00:00,Automovil,Hyundai,H-1 2.4 hsv 7s at sr,-79.2637528,43.732428999999996,Thursday,February
+32392,10-02-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-100.5700508,26.57133255,Thursday,February
+32393,10-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-77.33462398,25.03394235,Thursday,February
+32394,10-02-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-70.65167116,-33.48100002,Thursday,February
+32396,11-02-2011 00:00,Automovil,Peugeot,206 cc 1.6 16v,-89.5800964,13.9984143,Friday,February
+32397,11-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.5500828,-33.4034453,Friday,February
+32398,11-02-2011 00:00,Station wagon,Mitsubishi,Outlander gls,-6.0083802,39.95254570000001,Friday,February
+32399,14-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.5164221,-33.3992786,Monday,February
+32400,12-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-77.47207003,34.766176,Saturday,February
+32401,12-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-5.3212528,39.449386499999996,Saturday,February
+32402,12-02-2011 00:00,Station wagon,Kia motors,Otra,-6.4639673,40.2122236,Saturday,February
+32403,13-02-2011 00:00,Automovil,Audi,A3 2.0 fsi mecanico 6 vel,-103.4946271,25.589395899999996,Sunday,February
+32405,13-02-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.5597967,-33.455936,Sunday,February
+32406,13-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-3.6368321,37.2035633,Sunday,February
+32407,13-02-2011 00:00,Camioneta,Mazda,3000,-70.3068872,-18.471809,Sunday,February
+32408,14-02-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-70.7963573,-33.5506973,Monday,February
+32409,14-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-97.1822509,20.3831428,Monday,February
+32410,15-02-2011 00:00,Automovil,Toyota,Yaris gl,-5.947645141,42.54018060000001,Tuesday,February
+32411,15-02-2011 00:00,Station wagon,Toyota,Rav4 std,-107.991707,61.0666922,Tuesday,February
+32412,15-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-57.7212693,-25.2889728,Tuesday,February
+32413,15-02-2011 00:00,Automovil,Toyota,Yaris gl,-76.2669202,8.6033347,Tuesday,February
+32414,15-02-2011 00:00,Automovil,Toyota,Yaris gl,-73.1476761,-37.076044,Tuesday,February
+32415,15-02-2011 00:00,Automovil,Chevrolet,Otra,-79.41890957,43.63252975,Tuesday,February
+32416,16-02-2011 00:00,Automovil,Toyota,Yaris gl,-72.0519066,-45.580135399999996,Wednesday,February
+32417,16-02-2011 00:00,Automovil,Toyota,Corolla,-73.0314532,-36.817628799999994,Wednesday,February
+32418,16-02-2011 00:00,Station wagon,Kia motors,Sportage,-5.4718603,41.8135325,Wednesday,February
+32419,16-02-2011 00:00,Furgon,Citroen,Berlingo multispace 1ab,-70.6634473,-33.5707842,Wednesday,February
+32421,17-02-2011 00:00,Automovil,Toyota,Yaris gli,-68.74007246,-56.45240645,Thursday,February
+32422,17-02-2011 00:00,Automovil,Mazda,Mazda2 ac aut,-70.5867937,-33.5142027,Thursday,February
+32423,16-02-2011 00:00,Station wagon,Toyota,Rav4 std,-93.2780042,16.806454000000002,Wednesday,February
+32424,16-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,4.87986886,51.80617465,Wednesday,February
+32425,16-02-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-90.4423446,14.544162,Wednesday,February
+32426,17-02-2011 00:00,Automovil,Toyota,Yaris gl,-149.445078,-17.68749295,Thursday,February
+32427,17-02-2011 00:00,Automovil,Nissan,V16,-60.9821066,10.8677845,Thursday,February
+32428,16-02-2011 00:00,Automovil,Toyota,Yaris gl,-71.2312166,-29.909836699999996,Wednesday,February
+32430,18-02-2011 00:00,Automovil,Kia motors,Rio 1.5 dlx at dh a/c,-70.6057056,-33.4200748,Friday,February
+32431,17-02-2011 00:00,Automovil,Honda,Nc 50,-59.12747668,-34.42717225,Thursday,February
+32432,19-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-70.5685625,-33.619112799999996,Saturday,February
+32433,19-02-2011 00:00,Automovil,Ford,Ranger,-1.5804921,37.409962799999995,Saturday,February
+32434,21-02-2011 00:00,Automovil,Hyundai,Accent 1.5 gls,-99.9611985,20.3982253,Monday,February
+32435,20-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-70.5392337,-33.515077000000005,Sunday,February
+32440,21-02-2011 00:00,Todo terreno,Toyota,Rav4 std,9.7385532,52.374477899999995,Monday,February
+32441,21-02-2011 00:00,Camioneta,Chevrolet,Luv 1.6 d/c,-70.56041151,-33.419245399999994,Monday,February
+32442,19-02-2011 00:00,Camioneta,Mitsubishi,Otra,-6.7255495,40.44665560000001,Saturday,February
+32443,23-02-2011 00:00,Station wagon,Kia motors,Sportage,-84.0270303,9.950838699999998,Wednesday,February
+32444,22-02-2011 00:00,Automovil,Toyota,Corolla,-70.6591444,-33.531643599999995,Tuesday,February
+32445,23-02-2011 00:00,Station wagon,Kia motors,Sportage,-81.490843,12.8086902,Wednesday,February
+32446,23-02-2011 00:00,Automovil,Toyota,Rav4 std,-70.5355762,-33.3827425,Wednesday,February
+32447,23-02-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.7781477,-33.4226484,Wednesday,February
+32448,23-02-2011 00:00,Automovil,Fiat,Uno 1.4 ie,-70.7405407,-33.3508111,Wednesday,February
+32449,24-02-2011 00:00,Automovil,Chevrolet,Otra,-85.1714223,10.820623,Thursday,February
+32450,24-02-2011 00:00,Camioneta,Toyota,Hilux diesel 4x4 a/a,-70.38674339,-23.6362924,Thursday,February
+32451,25-02-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-99.1765634,23.719720600000002,Friday,February
+32452,25-02-2011 00:00,Todo terreno,Nissan,Pathfinder,-70.6089133,-33.4204891,Friday,February
+32453,24-02-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-89.4245863,16.503583499999998,Thursday,February
+32454,26-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5745163,-33.4107168,Saturday,February
+32455,26-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-69.614835,-23.2119318,Saturday,February
+32456,27-02-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.6057301,-33.5268289,Sunday,February
+32457,15-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-55.8676405,-27.4485995,Saturday,January
+32458,01-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.5734167,-33.4333617,Tuesday,March
+32459,28-02-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-102.4583668,21.168049,Monday,February
+32460,27-02-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-4.5206188,36.8521899,Sunday,February
+32461,28-02-2011 00:00,Todo terreno,Dodge,Durango 4.7 l 4x2,-75.70465063,4.8197168,Monday,February
+32462,28-02-2011 00:00,Camioneta,Chevrolet,Luv 1.6 d/c,-68.0789697,-22.1962266,Monday,February
+32463,01-03-2011 00:00,Automovil,Mazda,Artis glx,-98.9741913,19.5974857,Tuesday,March
+32464,02-03-2011 00:00,Camiones,Ford,Focus ghia sedan,-52.3665798,-28.284828499999996,Wednesday,March
+32465,01-03-2011 00:00,Camioneta,Nissan,X trail s 4x4 cuero,-85.8588515,13.459388800000001,Tuesday,March
+32466,01-03-2011 00:00,Automovil,Toyota,Yaris gl,-69.14511314,-33.3646052,Tuesday,March
+32468,02-03-2011 00:00,Automovil,Suzuki,Ss 90 gl,-70.5791771,-33.4130944,Wednesday,March
+32470,03-03-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-70.6039762,-33.4469337,Thursday,March
+32471,01-03-2011 00:00,Station wagon,Toyota,Rav4 std,166.4352572,-22.231628399999998,Tuesday,March
+32472,03-03-2011 00:00,Camiones,Hyundai,Porter hr chasis,-62.23154639,-38.7540622,Thursday,March
+32473,04-03-2011 00:00,Minibus,Mitsubishi,L200,-70.6531705,-33.399891499999995,Friday,March
+32474,04-03-2011 00:00,Automovil,Toyota,Yaris gl,-2.9349458,43.2629489,Friday,March
+32475,06-03-2011 00:00,Automovil,Mazda,Mazda rx8,-70.59350968,-33.51465225,Sunday,March
+32476,04-03-2011 00:00,Automovil,Toyota,Yaris gl,-75.74048283,4.797208900000001,Friday,March
+32477,07-03-2011 00:00,Automovil,Volkswagen,Golf r32,-70.6066553,-33.51256,Monday,March
+32478,06-03-2011 00:00,Station wagon,Jeep,Compass,-71.7446701,-35.675203,Sunday,March
+32480,07-03-2011 00:00,Camioneta,Mitsubishi,L200,-70.1351001,-20.225023699999998,Monday,March
+32481,07-03-2011 00:00,Camioneta,Mitsubishi,L200,-5.970261328,37.401224600000006,Monday,March
+32482,06-03-2011 00:00,Automovil,Toyota,Yaris gl,-69.5110022,-19.9241033,Sunday,March
+32483,07-03-2011 00:00,Automovil,Nissan,Navara 4x2 d/c dies cuero,-70.60785528,-33.4415273,Monday,March
+32484,08-03-2011 00:00,Camioneta,Nissan,X trail s 4x4 cuero,-64.2027352,-31.407368800000004,Tuesday,March
+32485,09-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6014954,-33.418201399999994,Wednesday,March
+32486,09-03-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d ac,-70.6464016,-33.47760460000001,Wednesday,March
+32487,09-03-2011 00:00,Automovil,Toyota,Yaris gl,-115.3595665,33.0305487,Wednesday,March
+32488,09-03-2011 00:00,Station wagon,Suzuki,Swift 1 3 ga,126.0689591,9.94120015,Wednesday,March
+32489,08-03-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-70.56578538,-33.380150199999996,Tuesday,March
+32490,10-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.5363243,-33.3845856,Thursday,March
+32491,10-03-2011 00:00,Station wagon,Subaru,Impreza 1.6i 4d ts bl mt,-70.7578916,-28.572609999999997,Thursday,March
+32492,10-03-2011 00:00,Automovil,Toyota,Celica liftback gl,-72.65571631,-53.4145832,Thursday,March
+32493,09-03-2011 00:00,Station wagon,Toyota,Rav4 std,-58.41938871,-34.57201115,Wednesday,March
+32495,26-02-2011 00:00,Motocicletas,Mv agusta,312rr 1078,-5.3192526,36.5195885,Saturday,February
+32496,11-03-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-5.095047,40.9133128,Friday,March
+32497,05-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.7384351,-33.472114000000005,Saturday,March
+32498,11-03-2011 00:00,Automovil,Toyota,Rav4 std,-71.3610071,-34.644211299999995,Friday,March
+32499,07-03-2011 00:00,Todo terreno,Toyota,Hilux c/s chassis corto,-78.0134163,-1.4922447,Monday,March
+32500,11-03-2011 00:00,Automovil,Hyundai,Elantra hd 1.6 gls at 2ab,-71.4434913,-33.043703,Friday,March
+32501,08-03-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-70.6019824,-33.4462783,Tuesday,March
+32502,10-03-2011 00:00,Automovil,Subaru,Legacy 1.8 dl,-75.221488,5.1838481,Thursday,March
+32503,11-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.5629888,-33.3850406,Friday,March
+32504,10-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-77.0267936,-12.075681900000001,Thursday,March
+32505,11-03-2011 00:00,Station wagon,Toyota,Fj cruiser 4.0 mec,-70.56578538,-33.380150199999996,Friday,March
+32506,11-03-2011 00:00,Automovil,Peugeot,206 r garros,-70.5609728,-33.4432655,Friday,March
+32507,11-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-57.9957961,-38.34168029999999,Friday,March
+32509,11-03-2011 00:00,Automovil,Toyota,Yaris gl,-107.6658709,24.759900100000003,Friday,March
+32510,13-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6261496,-33.4465868,Sunday,March
+32511,11-03-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,28.7452024,-25.8245929,Friday,March
+32512,11-03-2011 00:00,Camioneta,Nissan,D21 d/c std 4x2 md2112s,-73.0516109,-36.846646,Friday,March
+32514,13-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.61722343,-33.45619105,Sunday,March
+32515,11-03-2011 00:00,Todo terreno,Hyundai,Tucson 2.0 gl at abs 2ab,-70.60913311,-33.41463613,Friday,March
+32517,15-03-2011 00:00,Automovil,Mazda,Artis glx,-70.6816559,-33.4029534,Tuesday,March
+32518,04-03-2011 00:00,Automovil,Hyundai,Tucson 2.0 gl at abs 2ab,-65.2271983,-26.8298446,Friday,March
+32519,14-03-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-47.49393787,-21.715459399999997,Monday,March
+32520,14-03-2011 00:00,Automovil,Kia motors,Otra,-70.5453363,-33.3868704,Monday,March
+32521,12-03-2011 00:00,Camioneta,Nissan,Terrano,-70.5947596,-33.43901502,Saturday,March
+32523,16-03-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-75.5710624,6.3217127,Wednesday,March
+32524,15-03-2011 00:00,Camiones,Chevrolet,Aveo ls nb 1.4 16v mt,-90.4435392,14.572792499999998,Tuesday,March
+32525,15-03-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-84.8700307,12.372492800000002,Tuesday,March
+32527,29-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,6.689846965,51.0778263,Saturday,January
+32528,16-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.58199827,-33.37497871,Wednesday,March
+32529,16-03-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-72.9924776,-38.193317900000004,Wednesday,March
+32530,16-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6120414,-33.460009899999996,Wednesday,March
+32531,15-03-2011 00:00,Camiones,Chevrolet,Aveo ls nb 1.4 16v mt,-70.39565004,-23.659639000000002,Tuesday,March
+32532,16-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-2.5076323,40.11912120000001,Wednesday,March
+32533,12-02-2011 00:00,Camioneta,Toyota,Yaris gl,14.3522805,51.786952899999996,Saturday,February
+32534,16-03-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-6.0462198,36.8515196,Wednesday,March
+32535,18-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,0.7755847,42.7778966,Friday,March
+32536,15-03-2011 00:00,Station wagon,Great wall,Deer 4x2 equip,-16.9867218,32.66452,Tuesday,March
+32537,01-03-2011 00:00,Automovil,Toyota,Yaris gl,-58.4591435,-34.707625,Tuesday,March
+32538,17-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6018683,-33.45760572,Thursday,March
+32539,18-03-2011 00:00,Todo terreno,Subaru,Impreza 1.6 4d at awd 78f,-70.5363243,-33.3845856,Friday,March
+32540,18-03-2011 00:00,Camiones,Chevrolet,Aveo ls nb 1.4 16v mt,-70.71495671,-33.49003051,Friday,March
+32541,18-03-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.6596057,-33.472937699999996,Friday,March
+32542,18-03-2011 00:00,Automovil,Toyota,Yaris gl,-66.3505353,-33.274788199999996,Friday,March
+32543,02-01-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-58.5837073,-34.8437794,Sunday,January
+32544,18-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6097289,-33.4306885,Friday,March
+32545,18-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.6196299,-33.445319899999994,Friday,March
+32546,18-03-2011 00:00,Automovil,Kia motors,Morning ex 1.1 aut dh 4x2,-71.38688051,-41.12284101,Friday,March
+32547,19-03-2011 00:00,Camioneta,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-70.6362822,-33.4740653,Saturday,March
+32548,19-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-71.1949787,-30.5842958,Saturday,March
+32549,19-03-2011 00:00,Station wagon,Bussing,Diesel 10 a 15 ton.,-70.6235577,-33.4433292,Saturday,March
+32550,18-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.2517989,-34.714839500000004,Friday,March
+32551,19-03-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.5956934,-33.5182566,Saturday,March
+32552,19-03-2011 00:00,Automovil,Kia motors,Carens 1.8 7p at a/c,-71.4961701,-35.8321198,Saturday,March
+32553,22-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,10.5328845,44.154641,Tuesday,March
+32554,20-03-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-4.0667652,43.261968599999996,Sunday,March
+32555,21-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.650118,-33.437433299999995,Monday,March
+32559,22-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.55401442,-33.39346527,Tuesday,March
+32560,21-03-2011 00:00,Todo terreno,Great wall,Hover 4x2 sa abs,10.3367766,45.8060081,Monday,March
+32561,20-03-2011 00:00,Automovil,Mazda,Mazda rx8,-7.8896262,40.033265,Sunday,March
+32562,23-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-66.8700314,-29.436751899999997,Wednesday,March
+32563,23-02-2011 00:00,Camioneta,Mitsubishi,Montero 4p diesel,-70.3983675,-23.6515994,Wednesday,February
+32564,18-03-2011 00:00,Station wagon,Suzuki,Swift 1 3 ga,-99.4095632,19.374189899999998,Friday,March
+32565,22-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-71.5308028,-32.781036300000004,Tuesday,March
+32566,24-03-2011 00:00,Automovil,Peugeot,206 basico 1.4 ac,-71.5308028,-32.781036300000004,Thursday,March
+32567,24-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6009174,-33.5116387,Thursday,March
+32568,23-03-2011 00:00,Todo terreno,Suzuki,Swift 1 3 ga,-117.3211139,33.174477,Wednesday,March
+32569,25-03-2011 00:00,Automovil,Peugeot,206 basico 1.4 ac,-84.820319,10.6734974,Friday,March
+32570,24-03-2011 00:00,Todo terreno,Kia motors,Sorento ex 2.5 at ac 4x4,-107.6130749,24.8153759,Thursday,March
+32571,25-03-2011 00:00,Automovil,Toyota,Yaris gl,-75.71245767,4.80831485,Friday,March
+32572,14-03-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5532719,-33.5528848,Monday,March
+32573,26-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-70.6029555,-33.412524100000006,Saturday,March
+32574,26-03-2011 00:00,Automovil,Volkswagen,Gol,-81.490843,12.8086902,Saturday,March
+32575,27-03-2011 00:00,Automovil,Kia motors,Rio jb 1.4 ex at dh ab ll,-85.1714223,10.820623,Sunday,March
+32576,27-03-2011 00:00,Station wagon,Suzuki,Vitara jx,-106.3206589,35.8892969,Sunday,March
+32577,26-03-2011 00:00,Camioneta,Nissan,Navara 4x4 d/c dies at cu,9.003674334,44.38633945,Saturday,March
+32578,27-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,0.5026083,42.536589500000005,Sunday,March
+32579,28-03-2011 00:00,Camioneta,Toyota,New tercel xli,-70.5932984,-33.4311486,Monday,March
+32580,26-03-2011 00:00,Automovil,Fiat,Palio flp,-71.0354821,-34.5345379,Saturday,March
+32582,24-03-2011 00:00,Automovil,Subaru,3.0 4d outback ew gw,-70.5363243,-33.3845856,Thursday,March
+32583,25-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6165497,-33.460665500000005,Friday,March
+32584,28-03-2011 00:00,Todo terreno,Toyota,Rav4 std,80.5883843,7.1637379,Monday,March
+32586,28-03-2011 00:00,Automovil,Toyota,Otra,-4.9864303,36.48690070000001,Monday,March
+32587,30-03-2011 00:00,Automovil,Nissan,Cwa-45 cwb-45 y cwc-45 camion o tractor doble pte 45 ton. arrastre,-6.1183594,38.84594620000001,Wednesday,March
+32588,30-03-2011 00:00,Todo terreno,Chevrolet,Silverado rc 5.3 at,-7.571849156,43.00433185,Wednesday,March
+32589,31-03-2011 00:00,Station wagon,Subaru,Otra,-71.2146649,-30.6041059,Thursday,March
+32591,30-03-2011 00:00,Automovil,Ford,Focus 2.0l st 170cv,-73.2403899,-39.8155113,Wednesday,March
+32592,31-03-2011 00:00,Automovil,Toyota,Yaris gli,-70.66942984,-33.44502803,Thursday,March
+32593,30-03-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-106.3206589,35.8892969,Wednesday,March
+32594,31-03-2011 00:00,Minibus,Fiat,Fiorino,144.6780052,-36.598609499999995,Thursday,March
+32595,31-03-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Thursday,March
+32596,01-04-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Friday,April
+32597,31-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Thursday,March
+32598,31-03-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Thursday,March
+32599,31-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Thursday,March
+32600,01-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Friday,April
+32601,01-04-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Friday,April
+32602,01-04-2011 00:00,Automovil,Mitsubishi,Lancer 1.6 glxi,-74.9999999,-11.7499999,Friday,April
+32603,04-04-2011 00:00,Automovil,Chevrolet,Corsa plus nb 1.6 ac abs,-70.51748062,-33.42478675,Monday,April
+32604,30-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-75.8289949,20.028893,Wednesday,March
+32605,03-04-2011 00:00,Automovil,Porsche,Otra,-75.8289949,20.028893,Sunday,April
+32606,04-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Monday,April
+32607,03-04-2011 00:00,Station wagon,Toyota,Rav4 std,-75.8289949,20.028893,Sunday,April
+32608,03-04-2011 00:00,Camioneta,Toyota,Hilux d/c,-71.3380212,-29.9531147,Sunday,April
+32609,04-04-2011 00:00,Automovil,Kia motors,Rio jb 1.4 ex at dh ab ll,-75.8289949,20.028893,Monday,April
+32610,06-04-2011 00:00,Station wagon,Kia motors,Sportage,-70.3980032,-23.646373999999998,Wednesday,April
+32611,05-04-2011 00:00,Automovil,Nissan,Tiida sedan le,-70.7310032,-33.40376675,Tuesday,April
+32612,05-04-2011 00:00,Station wagon,Kia motors,Otra,-75.8289949,20.028893,Tuesday,April
+32613,05-04-2011 00:00,Automovil,Suzuki,Swift gl,-75.8289949,20.028893,Tuesday,April
+32614,06-04-2011 00:00,Camioneta,Toyota,Hilux c/s chassis corto,-75.8289949,20.028893,Wednesday,April
+32615,07-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Thursday,April
+32616,08-04-2011 00:00,Camioneta,Nissan,Terrano axs 4x4,-70.3980032,-23.646373999999998,Friday,April
+32617,05-04-2011 00:00,Station wagon,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Tuesday,April
+32618,07-04-2011 00:00,Automovil,Kia motors,Otra,-75.8289949,20.028893,Thursday,April
+32619,07-04-2011 00:00,Station wagon,Kia motors,Sportage,-75.8289949,20.028893,Thursday,April
+32620,07-04-2011 00:00,Camioneta,Hyundai,H1 2.4 hsv 7s at sr,-75.8289949,20.028893,Thursday,April
+32621,09-04-2011 00:00,Automovil,Toyota,Rav4 std,-75.8289949,20.028893,Saturday,April
+32622,09-04-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Saturday,April
+32623,10-04-2011 00:00,Station wagon,Toyota,4runner sr,-75.8289949,20.028893,Sunday,April
+32624,06-04-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-70.1524645,-20.2140656,Wednesday,April
+32625,11-04-2011 00:00,Camioneta,Nissan,Terrano,-75.8289949,20.028893,Monday,April
+32626,07-04-2011 00:00,Automovil,Kia motors,Besta 12 c standard,-75.8289949,20.028893,Thursday,April
+32627,10-04-2011 00:00,Automovil,Toyota,Corolla,-75.8289949,20.028893,Sunday,April
+32628,10-04-2011 00:00,Station wagon,Hyundai,Terracan gl dsl,-75.8289949,20.028893,Sunday,April
+32629,09-04-2011 00:00,Camioneta,Hyundai,Veracruz 3.0 gls crd full,-75.8289949,20.028893,Saturday,April
+32630,09-04-2011 00:00,Automovil,Toyota,Yaris gli,-75.8289949,20.028893,Saturday,April
+32631,11-04-2011 00:00,Minibus,Hyundai,H-1 minibus tdi 12p sv,-68.927218,-22.462391600000004,Monday,April
+32632,20-03-2011 00:00,Automovil,Nissan,Navara 4x2 d/c dies cuero,-70.1524645,-20.2140656,Sunday,March
+32633,12-04-2011 00:00,Automovil,Toyota,Yaris gl,-75.8289949,20.028893,Tuesday,April
+32634,12-04-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-75.8289949,20.028893,Tuesday,April
+32635,11-04-2011 00:00,Automovil,Toyota,Yaris gli,-75.8289949,20.028893,Monday,April
+32636,12-04-2011 00:00,Station wagon,Jeep,Compass limited 2.4 at,-75.8289949,20.028893,Tuesday,April
+32637,11-04-2011 00:00,Automovil,Hyundai,Terracan 2.9 gl le crdi,-75.8289949,20.028893,Monday,April
+32638,13-04-2011 00:00,Automovil,Nissan,Terrano,-70.1524645,-20.2140656,Wednesday,April
+32639,13-04-2011 00:00,Automovil,Nissan,Terrano,-75.8289949,20.028893,Wednesday,April
+32640,12-04-2011 00:00,Automovil,Mitsubishi,L200,-75.8289949,20.028893,Tuesday,April
+32641,13-04-2011 00:00,Automovil,Suzuki,Maruti,-75.8289949,20.028893,Wednesday,April
+32642,13-04-2011 00:00,Automovil,Toyota,Hilux,-75.8289949,20.028893,Wednesday,April
+32643,13-04-2011 00:00,Camioneta,Suzuki,Grand nomade 2.0 glx spac,-75.8289949,20.028893,Wednesday,April
+32644,14-04-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-75.8289949,20.028893,Thursday,April
+32645,13-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Wednesday,April
+32646,15-04-2011 00:00,Camioneta,Hyundai,Porter hr gls std tci ps,-75.8289949,20.028893,Friday,April
+32647,15-04-2011 00:00,Camioneta,Ford,Ranger xlt,-75.8289949,20.028893,Friday,April
+32648,14-04-2011 00:00,Camioneta,Toyota,Yaris sport xli,-75.8289949,20.028893,Thursday,April
+32649,06-04-2011 00:00,Camioneta,Nissan,Terrano d/c 4x2 aa,-75.8289949,20.028893,Wednesday,April
+32650,14-04-2011 00:00,Camioneta,Suzuki,Swift 1 3 ga,-75.8289949,20.028893,Thursday,April
+32651,15-04-2011 00:00,Camioneta,Suzuki,Grand nomade 2.0 glx spac,-75.8289949,20.028893,Friday,April
+32652,14-04-2011 00:00,Camioneta,Suzuki,Grand nomade 2.0 glx spac,-75.8289949,20.028893,Thursday,April
+32653,16-04-2011 00:00,Camioneta,Suzuki,Grand nomade 2.0 glx spac,-70.6748051,-33.2023396,Saturday,April
+32654,15-04-2011 00:00,Automovil,Chevrolet,Spark lt hb 5p 1.0 ac bc,-75.8289949,20.028893,Friday,April
+32655,16-04-2011 00:00,Camioneta,Great wall,Deer 4x2,-75.8289949,20.028893,Saturday,April
+32656,17-04-2011 00:00,Automovil,Hyundai,Porter hr chasis,-75.8289949,20.028893,Sunday,April
+32657,14-04-2011 00:00,Camioneta,Mitsubishi,L200,-75.8289949,20.028893,Thursday,April
+32658,15-04-2011 00:00,Camioneta,Nissan,Terrano,-75.8289949,20.028893,Friday,April
+32659,17-04-2011 00:00,Camioneta,Hyundai,Tucson 2.0 gl at abs 2ab,-75.8289949,20.028893,Sunday,April
+32660,01-04-2011 00:00,Camioneta,Nissan,Terrano c/s 4x4 ac,-70.3980032,-23.646373999999998,Friday,April
+32661,17-04-2011 00:00,Camioneta,Nissan,Terrano dx tdi 4x4,-68.927218,-22.462391600000004,Sunday,April
+32662,19-04-2011 00:00,Camioneta,Toyota,Otra,-75.8289949,20.028893,Tuesday,April
+32663,17-04-2011 00:00,Automovil,Toyota,Yaris xli,-75.8289949,20.028893,Sunday,April
+32664,18-04-2011 00:00,Camioneta,Hyundai,Accent 1.5 gls,-75.8289949,20.028893,Monday,April
+32665,12-04-2011 00:00,Automovil,Mazda,Mazda3 sedan v,-75.8289949,20.028893,Tuesday,April
+32666,20-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6241576,-32.8686691,Wednesday,April
+32667,18-04-2011 00:00,Camioneta,Nissan,Terrano ax 4x4 d/c ll,-70.39126787,-23.63997262,Monday,April
+32668,16-04-2011 00:00,Automovil,Subaru,Legacy 1.8 dl,-55.9157079,-27.374966399999998,Saturday,April
+32669,19-04-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-64.964784,-22.2512114,Tuesday,April
+32670,19-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-2.818971,37.5567705,Tuesday,April
+32671,20-04-2011 00:00,Automovil,Mazda,Cx-7 2.3 gt awd,-70.51968677,-33.40200639,Wednesday,April
+32672,19-04-2011 00:00,Camioneta,Nissan,Terrano,-57.6206392,-37.988929,Tuesday,April
+32673,21-04-2011 00:00,Camioneta,Toyota,Yaris gl,-70.6612615,-33.55337524,Thursday,April
+32674,14-04-2011 00:00,Todo terreno,Nissan,Terrano,-92.0835637,16.9053548,Thursday,April
+32675,21-04-2011 00:00,Automovil,Toyota,Yaris gl,-70.6297521,-33.443833500000004,Thursday,April
+32676,20-04-2011 00:00,Automovil,Polski fiat,125-p,-70.1333329,-29.0833329,Wednesday,April
+32677,20-04-2011 00:00,Automovil,Toyota,Yaris gl,-70.6019229,-33.508422499999995,Wednesday,April
+32678,20-04-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-70.58609756,-33.43682041,Wednesday,April
+32679,21-04-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-77.0188404,-12.000905900000001,Thursday,April
+32681,21-04-2011 00:00,Todo terreno,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-71.562693,-33.0443663,Thursday,April
+32682,22-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-63.6830229,-13.867434099999999,Friday,April
+32683,22-04-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-65.2134058,-24.2595528,Friday,April
+32684,23-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6195785,-33.4285711,Saturday,April
+32685,24-04-2011 00:00,Automovil,Buell,1125r,-55.2200389,-34.7714625,Sunday,April
+32686,17-04-2011 00:00,Station wagon,Ford,Ecosport xls 4x2 1.6l,-68.9100551,-22.480020800000002,Sunday,April
+32687,21-04-2011 00:00,Station wagon,Hyundai,Santa fe 2.0 gl 2wd crd,-70.5135549,-33.411561199999994,Thursday,April
+32688,24-04-2011 00:00,Automovil,Toyota,Yaris gl,-79.5040305,-1.8135133,Sunday,April
+32689,18-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5931791,-33.395324,Monday,April
+32690,21-04-2011 00:00,Automovil,Kymco,Mxer,-0.2709414,43.1608771,Thursday,April
+32691,19-04-2011 00:00,Camioneta,Nissan,Terrano d/c 4x2 aa,-38.672469,-3.6691156000000005,Tuesday,April
+32692,22-04-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-73.1314373,-41.7678428,Friday,April
+32693,20-04-2011 00:00,Automovil,Toyota,Yaris gl,-86.4311563,12.822220300000001,Wednesday,April
+32694,26-04-2011 00:00,Automovil,Toyota,Yaris gl,-70.6179408,-33.4370837,Tuesday,April
+32695,22-04-2011 00:00,Camioneta,Hyundai,Porter,-70.67331792,-33.39212486,Friday,April
+32696,22-04-2011 00:00,Camioneta,Hyundai,Elantra 1.8 gls ac sr,-70.67331792,-33.39212486,Friday,April
+32697,22-04-2011 00:00,Camioneta,Hyundai,Elantra 1.8 gls ac sr,-70.67331792,-33.39212486,Friday,April
+32698,23-04-2011 00:00,Todo terreno,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-69.9333329,-27.0833329,Saturday,April
+32699,25-04-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.59590891,-33.43180335,Monday,April
+32700,22-04-2011 00:00,Camioneta,Nissan,Terrano,-6.617849,37.3300135,Friday,April
+32701,25-04-2011 00:00,Automovil,Honda,Civic hybrid 1.3 aut.,3.7700368,46.4844213,Monday,April
+32702,26-04-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.572846,-33.388121999999996,Tuesday,April
+32703,27-04-2011 00:00,Motocicletas,Aprilia,Pegaso trail,-70.6592113,-33.4417138,Wednesday,April
+32704,26-04-2011 00:00,Automovil,Hyundai,Elantra 1.8 gls ac sr,-104.6715463,24.02245705,Tuesday,April
+32705,25-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.56312285,-33.401168,Monday,April
+32706,26-04-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-70.6101927,-33.5119108,Tuesday,April
+32707,22-04-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-104.6688093,23.996582999999998,Friday,April
+32708,26-04-2011 00:00,Camioneta,Subaru,Impreza 1.6 gl,-70.6510657,-38.3336993,Tuesday,April
+32709,28-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.7403821,-33.7208916,Thursday,April
+32710,28-04-2011 00:00,Station wagon,Toyota,Rav4 std,-70.6828436,-33.3510697,Thursday,April
+32711,28-04-2011 00:00,Camiones,Kia motors,Frontier 2.7 plus c/s,-59.14877576,-35.09989865,Thursday,April
+32712,27-04-2011 00:00,Todo terreno,Toyota,Rav4 std,4.0070299,49.2334544,Wednesday,April
+32713,25-04-2011 00:00,Automovil,Hyundai,Santa fe 2.0 gl 2wd crd,-70.5042497,-33.3898691,Monday,April
+32714,25-04-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-70.55504809,-33.44090627,Monday,April
+32715,28-04-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5876371,-33.394032,Thursday,April
+32716,27-04-2011 00:00,Automovil,Toyota,Yaris gl,-71.2600807,-34.977009100000004,Wednesday,April
+32717,28-04-2011 00:00,Automovil,Peugeot,206 xr,-70.50044118,-33.36996473,Thursday,April
+32720,24-04-2011 00:00,Camioneta,Hyundai,Accent 1.3 l,-70.6728527,-33.3701766,Sunday,April
+32721,26-04-2011 00:00,Camioneta,Nissan,Terrano c/s 4x4,-70.4039337,-23.672824399999996,Tuesday,April
+32722,27-04-2011 00:00,Camioneta,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-4.1332676,40.602792799999996,Wednesday,April
+32723,28-04-2011 00:00,Automovil,Hyundai,Accent prime gls,-86.40287022,12.3304067,Thursday,April
+32724,26-04-2011 00:00,Micro,Hyundai,Excel 1.3 ls,-70.1877654,-20.7025593,Tuesday,April
+32725,28-04-2011 00:00,Camiones,Kia motors,Frontier 2.7 plus c/s,-63.5396425,-34.47112620000001,Thursday,April
+32726,29-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.7286087,-35.6894372,Friday,April
+32727,29-04-2011 00:00,Automovil,Suzuki,Grand nomade 2.0 glx spac,-3.7036303,40.4267584,Friday,April
+32728,29-04-2011 00:00,Camaras frigorificas (con unidad refrigerante y sin chassis),Toyota,Rav4 std,-70.59879675,-33.47765912,Friday,April
+32729,06-03-2010 00:00,Camioneta,Nissan,D22 terrano ax but,-97.3966772,18.4621734,Saturday,March
+32730,01-01-2011 00:00,Automovil,Suzuki,Swift gl,-45.4460442,-21.5511953,Saturday,January
+32731,04-01-2011 00:00,Automovil,Suzuki,Swift gl,-99.1081598,19.328089000000002,Tuesday,January
+32732,04-01-2011 00:00,Automovil,Chevrolet,Aveo sedan nb 1.4 mt base,-121.8201654,37.233336200000004,Tuesday,January
+32733,04-01-2011 00:00,Automovil,Nissan,Sentra ii xe plus,8.6320903,39.5304057,Tuesday,January
+32734,05-01-2011 00:00,Camioneta,Chevrolet,Montana rc 1.8 dh ii,-70.5558416,-33.4079415,Wednesday,January
+32735,05-01-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-2.919149,43.2416914,Wednesday,January
+32736,05-01-2011 00:00,Camioneta,Dodge,Ram reg cab 4x4 dies 5.9,-100.9529685,22.154854699999998,Wednesday,January
+32737,05-02-2011 00:00,Camiones,Mack,Cv 713 38 6 ton 6x4 9 vel,-72.8725432,-15.806259299999999,Saturday,February
+32738,06-01-2011 00:00,Camioneta,Nissan,D21 d/c,-70.5653123,-33.4679469,Thursday,January
+32739,05-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-72.9346739,-41.460836900000004,Wednesday,January
+32740,04-01-2011 00:00,Camioneta,Nissan,Terrano,-58.56229481,-34.66330314,Tuesday,January
+32741,07-01-2011 00:00,Automovil,Skoda,Octavia ambiente 2.0,-70.4786197,-33.4242037,Friday,January
+32742,06-01-2011 00:00,Camioneta,Dongfeng,Otra,-0.5180403,38.3073686,Thursday,January
+32743,08-01-2011 00:00,Station wagon,Suzuki,Grand nomade at glx sport,-70.58895025,-33.44339753,Saturday,January
+32744,08-01-2011 00:00,Automovil,Mazda,Mazda3 sport v,-66.7016119,18.265745000000003,Saturday,January
+32745,08-01-2011 00:00,Automovil,Kia motors,Morning ex 1.1 mec dh,-70.55780695,-33.41728785,Saturday,January
+32746,09-01-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.6014954,-33.418201399999994,Sunday,January
+32747,03-01-2011 00:00,Furgon,Hyundai,New h-1 mb gl tci 12s ac,-70.6928629,-33.369894800000004,Monday,January
+32748,10-01-2011 00:00,Camioneta,Chevrolet,Luv 2.2 c/c mil ii 2t 2wd,-34.8674053,-8.0295872,Monday,January
+32749,11-01-2011 00:00,Automovil,Chevrolet,Spark ls hb 0.8 dh,-70.5925943,-33.411970600000004,Tuesday,January
+32751,11-01-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.5539767,-33.425742,Tuesday,January
+32752,11-01-2011 00:00,Camioneta,Nissan,Terrano 4wd,-90.14768179,14.454327300000001,Tuesday,January
+32753,11-01-2011 00:00,Automovil,Subaru,Impreza 1.8 gl aa,-70.5459148,-33.3886718,Tuesday,January
+32754,10-01-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-68.1436119,-16.5072465,Monday,January
+32755,11-01-2011 00:00,Station wagon,Suzuki,Aerio glx mt,-80.97739105,8.09527495,Tuesday,January
+32756,12-01-2011 00:00,Camioneta,Nissan,Terrano,-102.3260615,21.9280767,Wednesday,January
+32757,12-01-2011 00:00,Automovil,Peugeot,206 x-line hdi aa euro iv,-70.57953298,-33.42301315,Wednesday,January
+32758,12-01-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.650118,-33.437433299999995,Wednesday,January
+32759,07-01-2011 00:00,Furgon,Hyundai,New h-1 gl 2.5 tci f.esc,-70.784888,-33.434253999999996,Friday,January
+32760,12-01-2011 00:00,Station wagon,Kia motors,New carens lx ac dab,-58.318649,-33.4002071,Wednesday,January
+32761,13-01-2011 00:00,Automovil,Suzuki,Swift gl, gemfr. Bezirk,9.768453222,Thursday,January
+32762,12-01-2011 00:00,Automovil,Mitsubishi,Lancer 1.5,-67.5534118,10.2278302,Wednesday,January
+32764,13-01-2011 00:00,Automovil,Toyota,Yaris gli,-77.33462398,25.03394235,Thursday,January
+32765,14-01-2011 00:00,Automovil,Hyundai,Elantra 1.6 gls,120.7357833,16.989975199999996,Friday,January
+32766,14-01-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5439297,-33.418236,Friday,January
+32767,14-01-2011 00:00,Camioneta,Mitsubishi,L200 d/c turbo dakar crs,-117.1480711,34.023608200000005,Friday,January
+32768,15-01-2011 00:00,Automovil,Kia motors,Morning ex 1.1 aut dh 4x2,-87.97768336,42.8973066,Saturday,January
+32769,15-01-2011 00:00,Automovil,Suzuki,Swift 1.5 gl at,-70.63400634,-33.45806694,Saturday,January
+32770,16-01-2011 00:00,Camioneta,Nissan,Terrano 4wd,14.40025773,37.74832615,Sunday,January
+32772,17-01-2011 00:00,Automovil,Toyota,Yaris sport xli,13.5340379,42.4797588,Monday,January
+32773,18-01-2011 00:00,Automovil,Toyota,Yaris sedan gli aut,7.6683549,43.78245870000001,Tuesday,January
+32774,18-01-2011 00:00,Station wagon,Toyota,Advantage rav4 4x2,-70.58925561,-33.4451415,Tuesday,January
+32775,18-01-2011 00:00,Camioneta,Nissan,Terrano,-70.6002997,-33.5488293,Tuesday,January
+32776,19-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-2.5425323,37.8125736,Wednesday,January
+32778,19-01-2011 00:00,Automovil,Subaru,New legacy 2.0 4d awd at,-64.1478073,-31.3665087,Wednesday,January
+32779,18-01-2011 00:00,Furgon,Suzuki,Apv van,-61.4592804,-33.6589996,Tuesday,January
+32780,18-01-2011 00:00,Camioneta,Kia motors,Frontier ii 2.5 plus chdh,-70.3068872,-18.471809,Tuesday,January
+32781,17-01-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 at,-121.5028239,38.548004,Monday,January
+32782,19-01-2011 00:00,Automovil,Toyota,Yaris gli,-72.03181656,-45.58531792,Wednesday,January
+32783,20-01-2011 00:00,Automovil,Toyota,Yaris xli,-64.4953896,-31.028905100000003,Thursday,January
+32784,20-01-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.55332854,-33.41662756,Thursday,January
+32785,21-01-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-71.6124715,-33.5532251,Friday,January
+32786,19-01-2011 00:00,Station wagon,Nissan,X-trail x,-70.6115775,-33.5007472,Wednesday,January
+32787,20-01-2011 00:00,Automovil,Kia motors,Morning lx 1.1 mec 4x2,-69.614835,-23.2119318,Thursday,January
+32788,21-01-2011 00:00,Automovil,Toyota,Yaris sport xli,-65.7483485,-28.453675399999995,Friday,January
+32789,21-01-2011 00:00,Automovil,Volkswagen,Gol 1.8 comfort 3p,-92.74722999,17.0247264,Friday,January
+32790,21-01-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-78.4598031,-0.27589640000000004,Friday,January
+32792,21-01-2011 00:00,Furgon,Citroen,Berlingo mult.sp.1 6 16v,-70.6576417,-33.4923281,Friday,January
+32793,22-01-2011 00:00,Camioneta,Nissan,Terrano,-70.67657864,-33.492736,Saturday,January
+32795,22-01-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-6.2568573,43.4082096,Saturday,January
+32796,25-01-2011 00:00,Automovil,Toyota,Yaris sport gli,-16.8181971,32.733799600000005,Tuesday,January
+32797,25-01-2011 00:00,Camioneta,Nissan,D22 terrano ax 4x4 diesel,-44.2763768,-20.0589007,Tuesday,January
+32798,24-01-2011 00:00,Station wagon,Mitsubishi,Montero sport,-75.18887163,-51.444764899999996,Monday,January
+32799,25-01-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl mt 4wd,-70.6907198,-33.4987174,Tuesday,January
+32800,25-01-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 2.4 bu,-70.6386539,-33.46431968,Tuesday,January
+32801,24-01-2011 00:00,Furgon,Hyundai,New h-1 mb gls 2.5 tci 9s,-70.602449,-33.4500181,Monday,January
+32802,25-01-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mtc aw,-70.8683289,-33.600496899999996,Tuesday,January
+32803,25-01-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-70.6138025,-33.454742100000004,Tuesday,January
+32804,23-01-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x2 mt,-105.3204747,20.7711557,Sunday,January
+32805,27-01-2011 00:00,Station wagon,Hyundai,New santa fe 2.7 gl 2wdat,-99.50107205,27.55125115,Thursday,January
+32806,26-01-2011 00:00,Automovil,Toyota,Yaris sedan gli aut,-74.6876127,-14.359001199999998,Wednesday,January
+32807,26-01-2011 00:00,Camioneta,Nissan,Navara se 4x4,-73.0597619,-36.8125528,Wednesday,January
+32808,27-01-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.6250064,-33.454511100000005,Thursday,January
+32809,12-01-2011 00:00,Camioneta,Hyundai,Camion porter 2 ton. 4x2,-70.829062,-33.5593065,Wednesday,January
+32810,24-01-2011 00:00,Camioneta,Nissan,Terrano,-65.2514147,-24.3858912,Monday,January
+32811,28-01-2011 00:00,Automovil,Chevrolet,Corsa extra nb 1.6 dh,-70.6019229,-33.508422499999995,Friday,January
+32812,30-01-2011 00:00,Station wagon,Toyota,Advantage rav4 4x4,-66.18659775,-17.3463179,Sunday,January
+32813,27-01-2011 00:00,Automovil,Kia motors,Rio jb 1.4 lx mt,-70.7783791,-33.4880345,Thursday,January
+32814,29-01-2011 00:00,Camioneta,Nissan,D22 terrano axs d/c,-73.0639285,-36.8194239,Saturday,January
+32815,29-01-2011 00:00,Camioneta,Toyota,Hilux d/c 4wd,-71.5469325,-32.9430027,Saturday,January
+32816,31-01-2011 00:00,Automovil,Suzuki,Swift gl,-4.7408515,40.183054799999994,Monday,January
+32817,30-01-2011 00:00,Station wagon,Chevrolet,Vivant ls mc 1.6 16v mtaw,-99.2353614,34.446745,Sunday,January
+32818,31-01-2011 00:00,Station wagon,Toyota,Rav4 lujo,-70.596312,-33.3946979,Monday,January
+32819,02-02-2011 00:00,Automovil,Toyota,Yaris sedan xli,-73.0211721,-36.9229907,Wednesday,February
+32820,01-02-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,-70.6136526,-33.424725300000006,Tuesday,February
+32821,31-01-2011 00:00,Station wagon,Suzuki,Grand vitara glx,-71.6186808,-34.398605100000005,Monday,January
+32823,03-02-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 2.4 ac bu,-70.6510657,-38.3336993,Thursday,February
+32824,03-02-2011 00:00,Camioneta,Nissan,Terrano 4wd,-70.3980032,-23.646373999999998,Thursday,February
+32825,04-02-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,139.96953,35.710077000000005,Friday,February
+32826,04-02-2011 00:00,Camioneta,Nissan,D21 c/s 4x2 md2111,3.1160232,48.3923804,Friday,February
+32827,04-02-2011 00:00,Station wagon,Kia motors,Sportage,-76.86195226,-12.227008,Friday,February
+32828,05-02-2011 00:00,Camioneta,Ford,Ranger,-72.9896014,-36.73037539999999,Saturday,February
+32829,04-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5704749,-33.4461234,Friday,February
+32830,07-02-2011 00:00,Station wagon,Toyota,Advantage rav4 dx,-66.13638167,18.46635225,Monday,February
+32831,04-02-2011 00:00,Camioneta,Nissan,D21 d/c,-70.7303206,-34.1679319,Friday,February
+32832,08-02-2011 00:00,Automovil,Toyota,Yaris sedan xli,-67.0463834,10.3383818,Tuesday,February
+32833,07-02-2011 00:00,Station wagon,Nissan,Murano sl lth tl111,-67.1581247,-38.1502999,Monday,February
+32834,02-02-2011 00:00,Camioneta,Nissan,Navara se 4x4,-4.95091,43.27633370000001,Wednesday,February
+32835,08-02-2011 00:00,Camiones,Ford,Cargo 915,-72.5958757,-38.76367,Tuesday,February
+32836,07-02-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-87.0827041,30.544161499999998,Monday,February
+32837,08-02-2011 00:00,Camioneta,Nissan,Terrano,-56.20273938,-34.87217645,Tuesday,February
+32838,08-02-2011 00:00,Automovil,Chevrolet,Aveo iii lt hb 5p mt ac,1.2912177,41.5546957,Tuesday,February
+32839,06-02-2011 00:00,Camioneta,Nissan,Terrano,-78.6104599,-1.2184118,Sunday,February
+32840,08-02-2011 00:00,Station wagon,Suzuki,Grand nomade,-5.3614213,41.7122903,Tuesday,February
+32841,09-02-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-70.3067567,-27.3586554,Wednesday,February
+32842,10-02-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-70.6127289,-33.4179808,Thursday,February
+32843,10-02-2011 00:00,Camioneta,Chevrolet,Luv 2.3 dlx,-3.738495,40.3213552,Thursday,February
+32844,10-02-2011 00:00,Station wagon,Suzuki,Grand vitara glx,-70.5682045,-33.399124,Thursday,February
+32845,09-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-99.0438309,19.2996448,Wednesday,February
+32846,11-02-2011 00:00,Automovil,Hyundai,Accent 1.6 gls 16v,-70.7575064,-33.474104100000005,Friday,February
+32847,11-02-2011 00:00,Camioneta,Kia motors,Frontier ii 2.5 plus chdh,-70.62611782,-33.46895136,Friday,February
+32848,12-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-96.9483329,19.034167,Saturday,February
+32849,13-02-2011 00:00,Automovil,Toyota,Yaris xli,-73.05387455,-36.79858895,Sunday,February
+32850,12-02-2011 00:00,Automovil,Hyundai,Elantra 1.6 gls,-71.5457966,-32.9764138,Saturday,February
+32851,14-02-2011 00:00,Station wagon,Toyota,Advantage rav4 s/lujo,-4.7267125,36.507325099999996,Monday,February
+32852,14-02-2011 00:00,Automovil,Toyota,Yaris xli,-70.7721967,-33.4256097,Monday,February
+32853,16-02-2011 00:00,Todo terreno,Chrysler,Wrangler capota blanda,-63.2560066,10.651616800000001,Wednesday,February
+32854,13-02-2011 00:00,Camioneta,Toyota,Hilux,-79.0599536,-2.8817287,Sunday,February
+32855,14-02-2011 00:00,Camioneta,Hyundai,Camion porter 2 ton. 4x2,-70.7346855,-32.747189299999995,Monday,February
+32856,15-02-2011 00:00,Furgon,Opel,Combo,-70.63071,-33.44020080000001,Tuesday,February
+32857,17-02-2011 00:00,Automovil,Suzuki,Swift gl,-49.32424909,-25.4585431,Thursday,February
+32858,17-02-2011 00:00,Station wagon,Honda,Crv ex at,-70.59080532,-33.38860817,Thursday,February
+32859,10-02-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.132168,-20.2530909,Thursday,February
+32860,10-02-2011 00:00,Furgon,Hyundai,Furgon h-1 2.5 tdi d. pta,-1.503083,37.761221500000005,Thursday,February
+32861,17-02-2011 00:00,Automovil,Kia motors,Rio jb 1.4 lx mt,-71.4565593,-33.0464632,Thursday,February
+32862,17-02-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.61845071,-33.44303856,Thursday,February
+32863,17-02-2011 00:00,Station wagon,Toyota,Advantage rav4,-47.3774336,-20.5839084,Thursday,February
+32864,18-02-2011 00:00,Station wagon,Hyundai,Terracan fl 2.9 gl crdi,-70.59577661,-33.39355632,Friday,February
+32865,16-02-2011 00:00,Automovil,Honda,Civic sedan lxs 1.8 mec.,-58.4805481,-34.6509644,Wednesday,February
+32866,20-02-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-71.6551498,-33.85886970000001,Sunday,February
+32867,17-02-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-0.4928998,43.7720165,Thursday,February
+32868,18-02-2011 00:00,Station wagon,Toyota,Advantage 4wd,-70.5333754,-33.4254876,Friday,February
+32869,20-02-2011 00:00,Automovil,Toyota,Yaris sport xli,-68.9069651,-22.4409127,Sunday,February
+32870,20-02-2011 00:00,Station wagon,Subaru,Outback 2.5 at rw,-66.8278398,-29.398919,Sunday,February
+32871,18-02-2011 00:00,Camioneta,Nissan,Navara 4x4 d/c diesel std,159.2110388,-8.04046685,Friday,February
+32872,21-02-2011 00:00,Station wagon,Chrysler,Caravan l 3.3,-70.53073,-33.39097460000001,Monday,February
+32873,21-02-2011 00:00,Todo terreno,Land rover,Otra,-84.6171759,38.867105,Monday,February
+32874,19-02-2011 00:00,Camiones,Kia,Mighty hd 65 dc,-73.3308166,-37.4822806,Saturday,February
+32875,21-02-2011 00:00,Camioneta,Nissan,Terrano,-70.3980032,-23.646373999999998,Monday,February
+32876,21-02-2011 00:00,Camioneta,Toyota,Hilux,-70.6532748,-33.1821312,Monday,February
+32877,22-02-2011 00:00,Camioneta,Nissan,D22 terrano dx 4x4 diesel,-68.1527472,-16.4914148,Tuesday,February
+32878,23-02-2011 00:00,Automovil,Toyota,Yaris gli,-73.05396302,-36.833456299999995,Wednesday,February
+32879,22-02-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-80.0170608,-1.8680061999999997,Tuesday,February
+32880,24-02-2011 00:00,Camioneta,Nissan,Navara se 4x4,-58.58662112,-34.66288331,Thursday,February
+32881,23-02-2011 00:00,Automovil,Suzuki,Swift gl,-70.3950819,-23.5567178,Wednesday,February
+32882,25-02-2011 00:00,Station wagon,Hyundai,New santa fe 2.2 gls 4wd,0.6155965,46.973526899999996,Friday,February
+32883,27-02-2011 00:00,Automovil,Toyota,Yaris gli,-70.692765,19.4627792,Sunday,February
+32884,28-02-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x2 mt,-70.57542588,-33.38337608,Monday,February
+32885,26-02-2011 00:00,Automovil,Toyota,Yaris xli,-107.4287091,24.7642982,Saturday,February
+32886,26-02-2011 00:00,Automovil,Toyota,Yaris sport xli,-71.2349451,-32.445607,Saturday,February
+32887,27-02-2011 00:00,Automovil,Suzuki,Swift gl,106.6157889,8.7010711,Sunday,February
+32888,01-03-2011 00:00,Camioneta,Toyota,Hilux,-4.9962168,36.4984939,Tuesday,March
+32889,01-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-100.3678578,25.6591148,Tuesday,March
+32890,04-03-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,-70.57204781,-33.43169217,Friday,March
+32891,04-03-2011 00:00,Station wagon,Suzuki,Grand nomade,138.5156,-18.312799899999998,Friday,March
+32892,04-03-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x2 mt,-73.4958879,40.826194,Friday,March
+32893,04-03-2011 00:00,Automovil,Hyundai,Getz 1.3 gl 1ab,-73.06235,-36.8171527,Friday,March
+32894,04-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-78.4711238,-0.29389440000000006,Friday,March
+32895,05-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-72.7010055,41.527641700000004,Saturday,March
+32896,06-03-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-70.2868388,-18.4645243,Sunday,March
+32897,07-03-2011 00:00,Station wagon,Nissan,Murano sl lth tl111,-70.6532748,-33.1821312,Monday,March
+32898,08-03-2011 00:00,Automovil,Suzuki,Swift gl,-70.5452063,-33.377203200000004,Tuesday,March
+32899,08-03-2011 00:00,Station wagon,Subaru,Impreza 2.0 awd gl,-34.9456405,-8.050801700000001,Tuesday,March
+32900,08-03-2011 00:00,Station wagon,Kia motors,Sportage pro ex aut ac,-69.8272955,18.474989800000003,Tuesday,March
+32901,08-03-2011 00:00,Automovil,Toyota,Yaris xli,-60.7672583,-31.6838524,Tuesday,March
+32902,09-03-2011 00:00,Automovil,Toyota,Yaris gli,-70.6097289,-33.4306885,Wednesday,March
+32903,08-03-2011 00:00,Station wagon,Toyota,Advantage rav4,-99.2318847,19.3207477,Tuesday,March
+32904,06-03-2011 00:00,Station wagon,Dodge,Nitro slt 2.8l crd 4x4,50.10527765,33.16310895,Sunday,March
+32905,09-03-2011 00:00,Station wagon,Suzuki,Grand nomade,-80.7376648,-0.9432328999999999,Wednesday,March
+32906,08-03-2011 00:00,Station wagon,Suzuki,Grand nomade,-71.4846521,-33.0306294,Tuesday,March
+32907,07-03-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d hr dab,-79.8963424,9.356084800000001,Monday,March
+32908,08-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-71.9923707,-34.884016700000004,Tuesday,March
+32909,10-03-2011 00:00,Camioneta,Nissan,D22 terrano std 4x4 dies,-70.58340292,-33.58843423,Thursday,March
+32910,10-03-2011 00:00,Camioneta,Chevrolet,Luv dmax cc 3.0d ac w/t,-65.1105542,-24.386864399999997,Thursday,March
+32911,09-03-2011 00:00,Automovil,Chevrolet,Aveo ls nb 1.4 mt abs,-72.4072716,7.7575089,Wednesday,March
+32912,10-03-2011 00:00,Station wagon,Toyota,Advantage rav4 dx,-70.5363243,-33.3845856,Thursday,March
+32913,05-03-2011 00:00,Camioneta,Nissan,Terrano,167.4516091,-45.4132001,Saturday,March
+32914,10-03-2011 00:00,Camioneta,Chevrolet,Luv dmax cc 3.0d ac w/t,-70.61181118,-33.45633886,Thursday,March
+32915,10-02-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-78.9709838,-2.8824886000000003,Thursday,February
+32916,11-03-2011 00:00,Camioneta,Mitsubishi,L200 d/c t dies dakar crs,-70.57369529,-33.36778806,Friday,March
+32917,12-03-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5909292,-33.4316114,Saturday,March
+32918,14-03-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-73.7894929,41.324574,Monday,March
+32919,11-03-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-71.0493672,-35.5949776,Friday,March
+32920,12-03-2011 00:00,Station wagon,Suzuki,Grand nomade 2.4 atglx sp,-70.58599001,-33.43477079,Saturday,March
+32921,11-03-2011 00:00,Station wagon,Toyota,Rav4 std,-81.490843,12.8086902,Friday,March
+32923,14-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,-121.8976034,37.2347922,Monday,March
+32924,15-03-2011 00:00,Station wagon,Ford,Escape xlt,-70.6003291,-33.6126989,Tuesday,March
+32925,16-03-2011 00:00,Automovil,Chevrolet,Aveo iii lt hb 5p mt ac,-8.105666735,53.82088960000001,Wednesday,March
+32926,16-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.58097187,-33.42181558,Wednesday,March
+32927,16-03-2011 00:00,Automovil,Suzuki,Swift gl,-38.4404774,-12.9839913,Wednesday,March
+32928,17-03-2011 00:00,Station wagon,Toyota,Rav4 std,-99.2231482,19.49464,Thursday,March
+32929,16-03-2011 00:00,Automovil,Hyundai,Accent 1.5 gls,-84.8954369,33.7337128,Wednesday,March
+32930,17-03-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,-71.2528528,-35.9851775,Thursday,March
+32931,18-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-89.183224,13.784471100000001,Friday,March
+32932,17-03-2011 00:00,Station wagon,Suzuki,Grand vitara 1.6,-70.6532748,-33.1821312,Thursday,March
+32933,18-03-2011 00:00,Automovil,Peugeot,206 x-line 5p. 1.6,-70.6328609,-33.4353283,Friday,March
+32934,18-03-2011 00:00,Automovil,Hyundai,Accent 1.5 gls,-70.74205233,-33.48005798,Friday,March
+32935,21-03-2011 00:00,Furgon,Opel,Combo,-70.5817633,-33.4152019,Monday,March
+32936,19-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.59678988,-33.48728033,Saturday,March
+32937,20-03-2011 00:00,Camioneta,Nissan,Sentra ii xe,-68.782515,-32.983770899999996,Sunday,March
+32938,21-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,-71.3497382,-29.9581808,Monday,March
+32939,19-03-2011 00:00,Station wagon,Toyota,Rav4 lujo,174.933915,-36.916438799999995,Saturday,March
+32940,21-03-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl mt 2wd,-70.60015917,-33.4248417,Monday,March
+32941,21-03-2011 00:00,Furgon,Suzuki,Apv van,120.9819099,14.4806089,Monday,March
+32942,22-03-2011 00:00,Camioneta,Nissan,Terrano,-70.65595074,-33.4179249,Tuesday,March
+32943,16-03-2011 00:00,Camioneta,Nissan,Terrano,-70.6127289,-33.4179808,Wednesday,March
+32944,22-03-2011 00:00,Camioneta,Chevrolet,Luv d/c,-70.6523196,-33.491407099999996,Tuesday,March
+32945,22-03-2011 00:00,Automovil,Toyota,Yaris sport xli,-70.5333754,-33.4254876,Tuesday,March
+32946,23-03-2011 00:00,Automovil,Suzuki,Swift gl,-3.3527869,40.820627,Wednesday,March
+32947,23-03-2011 00:00,Automovil,Suzuki,Swift gl,-70.592036,-33.3916257,Wednesday,March
+32948,23-03-2011 00:00,Camioneta,Nissan,Navara se 4x4,-68.24632613,-38.96202505,Wednesday,March
+32949,23-03-2011 00:00,Camioneta,Nissan,D21 king cab a/ac,-122.735272,49.045689,Wednesday,March
+32950,23-03-2011 00:00,Camioneta,Toyota,Hilux bencinera 4wd,-70.5911941,-33.3927554,Wednesday,March
+32951,23-03-2011 00:00,Furgon,Hyundai,Van h1 tci ps,-70.74884294,-33.47576674,Wednesday,March
+32952,24-03-2011 00:00,Station wagon,Suzuki,Grand nomade,-5.1475112,40.6215074,Thursday,March
+32953,24-03-2011 00:00,Automovil,Nissan,V16,-70.5754735,-33.6095278,Thursday,March
+32954,25-03-2011 00:00,Automovil,Toyota,Yaris xli,-70.6062545,-33.4306983,Friday,March
+32955,21-03-2011 00:00,Camioneta,Nissan,Navara se 4x4,-103.6936876,19.2485368,Monday,March
+32956,24-03-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5904998,-33.420486600000004,Thursday,March
+32957,25-03-2011 00:00,Furgon,Kia motors,Besta 2.7,-120.7650605,39.1012064,Friday,March
+32958,27-03-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,13.3421608,41.72620155,Sunday,March
+32959,27-03-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-3.7797212,38.09278870000001,Sunday,March
+32960,26-03-2011 00:00,Station wagon,Kia motors,Grand carnival dsl full,-70.53419372,-33.35664565,Saturday,March
+32961,27-03-2011 00:00,Station wagon,Suzuki,Grand nomade,-88.8699584,14.0435511,Sunday,March
+32962,28-03-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d 4wd,-71.2267123,-29.9156233,Monday,March
+32963,26-03-2011 00:00,Automovil,Toyota,Yaris gli,-70.588961,-33.617013,Saturday,March
+32964,25-03-2011 00:00,Camioneta,Nissan,D22 terrano dx d/c,-73.7819315,-42.4630364,Friday,March
+32965,27-03-2011 00:00,Automovil,Hyundai,Accent gls (16v),-63.2186472,-17.8198976,Sunday,March
+32966,26-03-2011 00:00,Camioneta,Nissan,D22 terrano axs d/c,-70.381987,-23.59746762,Saturday,March
+32967,28-03-2011 00:00,Camioneta,Nissan,Navara se 4x4,-3.1528642,43.3445887,Monday,March
+32968,28-03-2011 00:00,Automovil,Toyota,Yaris xli,-70.63488955,-33.5416924,Monday,March
+32969,28-03-2011 00:00,Camioneta,Nissan,D21 d/c,-73.4143148,-37.8532439,Monday,March
+32970,29-03-2011 00:00,Station wagon,Toyota,Hilux c/s chassis corto,-70.6003474,-33.3937598,Tuesday,March
+32973,30-03-2011 00:00,Automovil,Hyundai,Accent 1.3 l,-71.3461515,19.4799463,Wednesday,March
+32974,30-03-2011 00:00,Station wagon,Chevrolet,Suburban 5.3l 4wd dvd 6at,-75.8289949,20.028893,Wednesday,March
+32975,30-03-2011 00:00,Camioneta,Nissan,Terrano,-4.5110721,41.528667,Wednesday,March
+32976,30-03-2011 00:00,Automovil,Subaru,Impreza 1.6 gl,-4.0246206,39.8961635,Wednesday,March
+32977,30-03-2011 00:00,Camioneta,Nissan,Terrano,-68.04612307,-46.46103555,Wednesday,March
+32979,30-03-2011 00:00,Motocicletas,Hyundai,Accent 1.3 l,-57.84169401,-38.27007105,Wednesday,March
+32980,01-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.61722343,-33.45619105,Friday,April
+32981,01-04-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-70.6464016,-33.47760460000001,Friday,April
+32982,01-04-2011 00:00,Automovil,Mazda,Mazda3 sedan v,-70.6786699,-33.3665801,Friday,April
+32985,31-03-2011 00:00,Automovil,Toyota,Yaris gli,-45.2739068,-21.672572,Thursday,March
+32986,02-04-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-70.56578538,-33.380150199999996,Saturday,April
+32987,01-04-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-70.51748062,-33.42478675,Friday,April
+32988,01-04-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-78.4711238,-0.29389440000000006,Friday,April
+32989,04-04-2011 00:00,Automovil,Toyota,Tercel 1.5 le,-70.5699246,-33.3952557,Monday,April
+32990,04-04-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-70.57048627,-33.38058654,Monday,April
+32992,03-04-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.6097289,-33.4306885,Sunday,April
+32993,30-03-2011 00:00,Camioneta,Hyundai,Porter hr camioneta,-70.85683156,-34.4054217,Wednesday,March
+32994,05-04-2011 00:00,Camioneta,Toyota,Hilux,-70.5619366,-33.3893903,Tuesday,April
+32995,01-04-2011 00:00,Camioneta,Ssangyong,Actyon sport 4x2 mt,26.04914939,44.94606205,Friday,April
+32996,05-04-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,-99.1629646,19.455672500000002,Tuesday,April
+32997,05-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.5021532,-33.3933234,Tuesday,April
+32998,05-04-2011 00:00,Automovil,Suzuki,Swift 1.3 ga,-70.1491977,19.0487404,Tuesday,April
+32999,06-04-2011 00:00,Station wagon,Toyota,Rav4 std,-70.5889427,-33.4394891,Wednesday,April
+33000,03-04-2011 00:00,Camioneta,Ford,F-150 dc lariat 5.4l 4x4,-70.5202114,-33.3642122,Sunday,April
+33001,06-04-2011 00:00,Automovil,Mazda,Mazda3 sedan s,-70.50396893,-33.37486676,Wednesday,April
+33002,06-04-2011 00:00,Camioneta,Nissan,D22 terrano axs d/c,-68.9315104,-22.4645471,Wednesday,April
+33003,06-04-2011 00:00,Camioneta,Nissan,Navara le 4x4,-78.21888318,21.527859,Wednesday,April
+33004,07-04-2011 00:00,Automovil,Toyota,Yaris sport gli,-70.5995828,-33.5165126,Thursday,April
+33005,07-04-2011 00:00,Automovil,Toyota,Yaris sport xli,13.5340379,42.4797588,Thursday,April
+33006,07-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.592677,-33.485981,Thursday,April
+33007,08-04-2011 00:00,Station wagon,Toyota,Rav4 std,-70.54353523,-33.38271775,Friday,April
+33008,09-04-2011 00:00,Automovil,Peugeot,206 cc 2.0 16v,-60.9821066,10.8677845,Saturday,April
+33009,06-04-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.56134315,-33.38824854,Wednesday,April
+33014,10-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.52962203,-33.39101723,Sunday,April
+33015,10-04-2011 00:00,Camioneta,Nissan,D22 terrano ax d/c 4x2,-70.55482871,-33.42046511,Sunday,April
+33016,09-04-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,8.2193554,44.9192234,Saturday,April
+33017,08-04-2011 00:00,Camioneta,Nissan,D22 terrano ax d/c 4x2,-70.7121533,-33.9799492,Friday,April
+33018,09-04-2011 00:00,Automovil,Subaru,Impreza 1.6 glx,-68.126563,-38.8432157,Saturday,April
+33019,11-04-2011 00:00,Automovil,Peugeot,207 compact xs line mt,-75.9335398,20.0608949,Monday,April
+33020,07-04-2011 00:00,Automovil,Mazda,Mazda3 sedan s,-71.5687016,-33.040627799999996,Thursday,April
+33021,11-04-2011 00:00,Camiones,Chevrolet,Nkr 69 4x2 3 5 ton.,-97.8213849,26.247295899999997,Monday,April
+33022,12-04-2011 00:00,Camiones,Hyundai,Hd 78,-70.6573484,-33.4787402,Tuesday,April
+33023,12-04-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-70.3909875,-23.568724,Tuesday,April
+33024,12-04-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-70.55651445,-33.38894861,Tuesday,April
+33025,07-04-2011 00:00,Camioneta,Nissan,D22 terrano ax d/c 4x2,-70.3980032,-23.646373999999998,Thursday,April
+33026,13-04-2011 00:00,Station wagon,Suzuki,Grand nomade,11.7329476,45.745411299999994,Wednesday,April
+33027,12-04-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,8.976389565,44.40664865,Tuesday,April
+33028,13-04-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies cuero,-63.9080947,-8.7613009,Wednesday,April
+33029,15-04-2011 00:00,Automovil,Suzuki,Swift 1 5 gl llantas,-70.5645343,-33.3981522,Friday,April
+33030,15-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.293785,-18.470028600000003,Friday,April
+33031,15-04-2011 00:00,Camioneta,Nissan,D22 terrano dx d/c,-72.6444299,-39.7445265,Friday,April
+33032,15-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-4.3397306,37.0291848,Friday,April
+33033,15-04-2011 00:00,Station wagon,Toyota,Rav4 std,-4.8058553,36.500528499999994,Friday,April
+33034,17-04-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-69.5043112,-23.1002808,Sunday,April
+33036,16-04-2011 00:00,Station wagon,Kia motors,Sportage,-70.55380378,-33.37889513,Saturday,April
+33037,18-04-2011 00:00,Camiones,Ford,Cargo 1722,-85.7981532,10.316444699999998,Monday,April
+33038,10-04-2011 00:00,Furgon,Citroen,Berlingo ii 1.9 di p lat,-5.8257634,37.225697700000005,Sunday,April
+33039,21-04-2011 00:00,Station wagon,Kia motors,Sportage,-71.2411593,-29.8709854,Thursday,April
+33040,17-04-2011 00:00,Camioneta,Nissan,Terrano,-68.1177225,-21.6783985,Sunday,April
+33041,20-04-2011 00:00,Camioneta,Mitsubishi,L200,-103.6936876,19.2485368,Wednesday,April
+33042,22-04-2011 00:00,Automovil,Toyota,Yaris gli,-70.61722343,-33.45619105,Friday,April
+33043,23-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-56.9062289,-16.4681819,Saturday,April
+33044,24-04-2011 00:00,Station wagon,Suzuki,Gran vitara jlx,-120.6854304,35.6417749,Sunday,April
+33046,24-04-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.5414156,-33.4242085,Sunday,April
+33047,25-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-102.2970012,21.880889800000002,Monday,April
+33048,25-04-2011 00:00,Camioneta,Nissan,Terrano,29.57915205,60.3285524,Monday,April
+33049,23-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.6192655,-33.44584311,Saturday,April
+33051,24-04-2011 00:00,Automovil,Subaru,Impreza 1.6i 4d awd mt af,10.9957529,49.4559503,Sunday,April
+33052,24-04-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-73.0314532,-36.817628799999994,Sunday,April
+33053,27-04-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-4.8299633,39.96071,Wednesday,April
+33054,26-04-2011 00:00,Station wagon,Suzuki,Grand nomade,-6.4406281,37.389482,Tuesday,April
+33055,27-04-2011 00:00,Automovil,Suzuki,Swift 1.3 ga,-98.9816408,19.6858566,Wednesday,April
+33056,23-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.59430909,-33.4285645,Monday,May
+33057,16-05-2011 00:00,Camioneta,Hyundai,Porter au,-58.5761224,-34.9067917,Monday,May
+33058,11-05-2011 00:00,Station wagon,Kia motors,Sportage,-70.5737113,-33.3842799,Wednesday,May
+33059,11-05-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-70.640549,-33.4011538,Wednesday,May
+33062,26-04-2011 00:00,Camioneta,Toyota,Hilux,-65.6588228,-27.013239399999996,Tuesday,April
+33063,01-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-70.5979707,-33.42801895,Sunday,May
+33064,29-04-2011 00:00,Station wagon,Toyota,Rav4 std,-69.2896455,-32.954211199999996,Friday,April
+33066,29-04-2011 00:00,Station wagon,Suzuki,Grand vitara 1.6,-70.5601625,-33.409609,Friday,April
+33068,01-05-2011 00:00,Camioneta,Toyota,Hilux,-38.6085618,-3.767749,Sunday,May
+33069,02-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.5960396,-33.4384287,Monday,May
+33070,01-05-2011 00:00,Camioneta,Nissan,Sentra ii xe,-6.9409905,38.8753755,Sunday,May
+33071,29-04-2011 00:00,Station wagon,Hyundai,Tucson 2.7 gls at 4wd,-70.57877742,-33.38319449,Friday,April
+33072,02-05-2011 00:00,Station wagon,Hyundai,Santa fe 2.0 gl 2wd crdi,14.5950756,36.9584183,Monday,May
+33073,19-04-2011 00:00,Camioneta,Nissan,Navara se 4x4,-70.1524645,-20.2140656,Tuesday,April
+33074,02-05-2011 00:00,Automovil,Suzuki,Swift 1.3 ga,-47.9661866,-1.7627032,Monday,May
+33075,03-05-2011 00:00,Station wagon,Chevrolet,Optra ii ls nb 1.6 mt ac,-68.13377053,-38.92284185,Tuesday,May
+33076,02-05-2011 00:00,Camioneta,Nissan,Navara se 4x4,-71.5624873,-34.03143,Monday,May
+33077,03-05-2011 00:00,Camioneta,Nissan,Terrano,-90.6552149,43.861216,Tuesday,May
+33078,21-04-2011 00:00,Camiones,Daihatsu,Camion delta y delta dh 3500 kgs,2.1598693,41.3827365,Thursday,April
+33080,04-05-2011 00:00,Camioneta,Kia,Frontier 2.7 cargo van,-70.6716341,-33.4766698,Wednesday,May
+33081,06-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.58980431,-33.45142819,Friday,May
+33082,05-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-117.1627713,32.7174209,Thursday,May
+33083,05-05-2011 00:00,Automovil,Toyota,Yaris gli,-50.4230006,-22.655724,Thursday,May
+33084,05-05-2011 00:00,Camioneta,Nissan,Terrano,-73.6524431,5.9639337999999995,Thursday,May
+33085,07-05-2011 00:00,Station wagon,Suzuki,Grand nomade glx sport,-113.4229999,31.489,Saturday,May
+33086,09-05-2011 00:00,Automovil,Chevrolet,Aveo iii hb 5p 1.4 base,-55.9118189,-27.4222267,Monday,May
+33087,09-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-70.61726173,-33.437915000000004,Monday,May
+33088,09-05-2011 00:00,Station wagon,Honda,Cr-v lxs 2.4 aut 4x4,-70.64234391,-33.3805491,Monday,May
+33089,09-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl mt 2wd,-95.3398134,29.7589896,Monday,May
+33090,09-05-2011 00:00,Station wagon,Subaru,New outback 2.5 awd at uz,-3.643934,37.2406427,Monday,May
+33091,10-05-2011 00:00,Automovil,Toyota,Yaris sedan xli,0.0561166,43.2231658,Tuesday,May
+33092,07-05-2011 00:00,Automovil,Hyundai,Accent 1.5 gl ps (crdi),-73.0360482,-36.7887982,Saturday,May
+33094,11-05-2011 00:00,Automovil,Suzuki,Swift gl,-59.21964603,-31.092464899999996,Wednesday,May
+33095,07-05-2011 00:00,Furgon,Fiat,Fiorino,-70.58967137,-33.39474014,Saturday,May
+33096,28-04-2011 00:00,Camioneta,Nissan,Navara 4x4 d/c diesel std,-70.6464438,-33.444523600000004,Thursday,April
+33097,08-05-2011 00:00,Camioneta,Ford,Ranger,-69.1394752,-20.3007012,Sunday,May
+33098,09-05-2011 00:00,Automovil,Nissan,V16,-80.483031,25.7759405,Monday,May
+33100,11-05-2011 00:00,Furgon,Hyundai,Van h1 tci ps,-62.3022838,-31.972417600000004,Wednesday,May
+33101,09-05-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-59.0337515,-27.4549268,Monday,May
+33102,11-05-2011 00:00,Camioneta,Nissan,Navara se 4x4,-109.9668332,27.519666700000002,Wednesday,May
+33103,10-05-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-96.69515182,16.81614965,Tuesday,May
+33104,11-05-2011 00:00,Camioneta,Nissan,Terrano,-70.60448562,-33.4292867,Wednesday,May
+33105,11-05-2011 00:00,Station wagon,Subaru,Impreza 2.0 awd gl,-70.58031483,-33.37440937,Wednesday,May
+33106,12-05-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-70.66848761,-33.49883641,Thursday,May
+33107,26-04-2011 00:00,Furgon,Hyundai,H-1 minibus tdi 12p sv,-90.59442802,14.6053514,Tuesday,April
+33108,11-05-2011 00:00,Camioneta,Nissan,Terrano,-66.9061268,10.497193,Wednesday,May
+33109,10-04-2011 00:00,Automovil,Jac,A 137 1.3 sport se,-72.513241,7.878361,Sunday,April
+33110,13-05-2011 00:00,Station wagon,Suzuki,Grand vitara 2.0,-70.51305245,-33.40064865,Friday,May
+33111,15-05-2011 00:00,Station wagon,Toyota,Rav4 std,5.9722713,6.607657499999999,Sunday,May
+33112,16-05-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,-70.5461496,-33.446051399999995,Monday,May
+33114,14-05-2011 00:00,Automovil,Suzuki,Swift 1.3 ga,28.6487661,44.033913,Saturday,May
+33115,14-05-2011 00:00,Automovil,Toyota,Yaris gli,-105.4544518,36.941968,Saturday,May
+33116,13-05-2011 00:00,Station wagon,Suzuki,Grand vitara glx sport,-70.69010671,-33.41030887,Friday,May
+33117,17-05-2011 00:00,Automovil,Hyundai,Accent 1.5 gls,-72.9311897,-40.5787167,Tuesday,May
+33118,06-04-2011 00:00,Camioneta,Chevrolet,Luv dmax cc 3.0d ac w/t,-70.58343262,-33.44880818,Wednesday,April
+33119,18-05-2011 00:00,Station wagon,Toyota,Advantage rav4,-70.7355261,18.4547702,Wednesday,May
+33120,17-05-2011 00:00,Station wagon,Toyota,Advantage rav4,-109.9668332,27.519666700000002,Tuesday,May
+33121,09-05-2011 00:00,Station wagon,Suzuki,Grand nomade,-95.5621466,32.8414723,Monday,May
+33123,14-05-2011 00:00,Camioneta,Great wall,Socool 4x2,-73.1445816,-36.8270407,Saturday,May
+33124,18-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-58.7852362,-34.6950029,Wednesday,May
+33125,17-05-2011 00:00,Camioneta,Nissan,Terrano,-70.64321143,-33.36550995,Tuesday,May
+33126,15-05-2011 00:00,Camioneta,Nissan,Navara 4x2 d/c dies full,-70.1524645,-20.2140656,Sunday,May
+33127,18-05-2011 00:00,Automovil,Hyundai,Getz 1.3 gl 1ab,-57.5482702,-37.9977224,Wednesday,May
+33128,18-05-2011 00:00,Station wagon,Suzuki,Grand nomade,2.2795901,48.8535755,Wednesday,May
+33129,18-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 crossover,-70.57115209,-33.37434524,Wednesday,May
+33130,18-05-2011 00:00,Camioneta,Mitsubishi,L200,-70.5980363,-33.399131800000006,Wednesday,May
+33131,18-05-2011 00:00,Camioneta,Nissan,D21 d/c,-5.9409399,36.608177600000005,Wednesday,May
+33132,27-04-2011 00:00,Station wagon,Toyota,Advantage rav4 s/lujo,-79.9671459,22.3956405,Wednesday,April
+33133,14-05-2011 00:00,Camioneta,Nissan,Terrano,-71.1949787,-30.5842958,Saturday,May
+33134,19-05-2011 00:00,Automovil,Toyota,Yaris xli,-70.6078904,-33.4362049,Thursday,May
+33135,18-05-2011 00:00,Camioneta,Kia motors,Besta 2.7 ultra aero,-65.2751704,-24.2545155,Wednesday,May
+33136,21-05-2011 00:00,Automovil,Suzuki,Swift 1 3 gl,-70.80196452,-33.5659833,Saturday,May
+33137,21-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-99.0992223,19.322594600000002,Saturday,May
+33139,22-05-2011 00:00,Automovil,Toyota,Yaris xli,-0.211476025,51.49405695,Sunday,May
+33142,26-05-2011 00:00,Automovil,Chevrolet,S10 off road ec 4.3 4wd,9.0990174,51.4835865,Thursday,May
+33143,27-05-2011 00:00,Minibus,Hyundai,New h-1 gl 2.5 tci f.esc,-70.3857519,-23.588914000000003,Friday,May
+33144,02-06-2011 00:00,Camioneta,Nissan,Terrano ax 4x4,4.1796065,49.0437143,Thursday,June
+33146,31-03-2011 00:00,Camioneta,Nissan,D22 ax d/c,-47.0888099,-21.786305,Thursday,March
+33147,02-06-2011 00:00,Camioneta,Nissan,D22 terrano dx s/c dsl,-70.69169967,-33.5142539,Thursday,June
+33148,05-06-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-89.2923888,13.6919495,Sunday,June
+33149,04-06-2011 00:00,Camioneta,Chevrolet,Luv work cc 2.8d,-77.0325098,-12.0519164,Saturday,June
+33150,05-06-2011 00:00,Camioneta,Toyota,Hilux,-70.5049836,-33.394132899999995,Sunday,June
+33151,10-06-2011 00:00,Camioneta,Nissan,Terrano pick up ax dies,-73.013119,-36.9398465,Friday,June
+33152,08-06-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-68.93477748,-46.53834734,Wednesday,June
+33153,08-06-2011 00:00,Automovil,Nissan,Sentra 2.0,-66.2710779,18.468,Wednesday,June
+33155,29-04-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-73.3479269,-40.3369125,Friday,April
+33156,30-04-2011 00:00,Automovil,Hyundai,Accent 1.6 gls ac 3p full,-70.66404786,-33.45968573,Saturday,April
+33157,29-04-2011 00:00,Automovil,Toyota,Yaris gl,-70.7774378,-33.731823799999994,Friday,April
+33158,04-03-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,-75.1797369,43.109421999999995,Friday,March
+33159,28-04-2011 00:00,Otro,Otra,Otra,-70.5185395,-33.371240500000006,Thursday,April
+33160,02-05-2011 00:00,Camioneta,Toyota,Hilux c/s,-64.1697059,-31.41888868,Monday,May
+33161,03-05-2011 00:00,Automovil,Zotye,Hunter 1.3 l full,-65.20795638,-26.69685685,Tuesday,May
+33162,02-05-2011 00:00,Automovil,Chevrolet,Aveo ii ls hb 3p 1.4 mt,144.6780052,-36.598609499999995,Monday,May
+33163,02-05-2011 00:00,Automovil,Kia motors,Cerato ex 1 6 mec.ac dab,-79.3666964,-1.3397667,Monday,May
+33164,03-05-2011 00:00,Todo terreno,Hyundai,Tucson 2.0 gl at abs 2ab,-90.7892689,40.016830999999996,Tuesday,May
+33166,08-04-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,3.208049,43.3279877,Friday,April
+33167,04-05-2011 00:00,Micro,Kawasaki,Ninja 250,-79.8499119,-6.7917569,Wednesday,May
+33168,05-05-2011 00:00,Automovil,Peugeot,206 contact 1.6 aut.,148.0623408,-23.8807647,Thursday,May
+33169,04-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-65.78224019,-47.3460126,Wednesday,May
+33170,28-04-2011 00:00,Camiones,Hyundai,Hd 72 std 5 0 ton 4x2,-71.2741594,-35.1170531,Thursday,April
+33171,05-05-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,-71.1949787,-30.5842958,Thursday,May
+33172,02-05-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-70.54786115,-33.42702488,Monday,May
+33173,05-05-2011 00:00,Camioneta,Nissan,Terrano,-86.9102785,40.4275497,Thursday,May
+33174,05-05-2011 00:00,Automovil,Toyota,Yaris gl,10.2971347,44.789250200000005,Thursday,May
+33175,06-05-2011 00:00,Automovil,Suzuki,Sx4 1.6 glx,-70.6030245,-33.4439563,Friday,May
+33176,06-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5274663,-33.407458,Friday,May
+33177,07-05-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-73.1111101,-36.7141369,Saturday,May
+33178,07-05-2011 00:00,Automovil,Peugeot,Otra,-73.0985714,-36.7413528,Saturday,May
+33179,07-05-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-70.6120414,-33.460009899999996,Saturday,May
+33181,08-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.6074984,-33.2785745,Sunday,May
+33182,06-05-2011 00:00,Automovil,Suzuki,Grand nomade 2.0 glx spac,-68.3303244,-34.616001000000004,Friday,May
+33183,09-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6633714,-33.4720327,Monday,May
+33184,09-05-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,6.3173402,50.2447851,Monday,May
+33185,09-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-5.0451986,42.901156,Monday,May
+33186,09-05-2011 00:00,Automovil,Chevrolet,Aveo lt nb 1.4 16v at ac,-71.3435013,-29.963607899999996,Monday,May
+33187,09-05-2011 00:00,Automovil,Toyota,Yaris gl,-92.74722999,17.0247264,Monday,May
+33188,06-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.6836899,-33.446501,Friday,May
+33189,10-05-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.9342167,-53.1741017,Tuesday,May
+33190,05-05-2011 00:00,Automovil,Chevrolet,Astra enjoy hb 1.9d mt ac,-97.8972684,18.967481600000003,Thursday,May
+33192,10-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-5.4345462,36.4245039,Tuesday,May
+33193,10-05-2011 00:00,Camioneta,Hyundai,H1 2.4 hsv 7s at sr,-70.5172305,-33.4014635,Tuesday,May
+33194,11-05-2011 00:00,Automovil,Toyota,Yaris gl,2.2539406,50.469589299999996,Wednesday,May
+33195,11-05-2011 00:00,Camiones,Otra,Otra,-73.0487794,-36.8003333,Wednesday,May
+33196,11-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.6259683,-33.4465354,Wednesday,May
+33197,12-05-2011 00:00,Camioneta,Nissan,Terrano,-89.9784062,31.734231400000002,Thursday,May
+33198,11-05-2011 00:00,Automovil,Nissan,Terrano,-70.6212295,-33.4465654,Wednesday,May
+33200,09-05-2011 00:00,Furgon,Peugeot,Partner m59 hdi 1.6 da,36.33206356,32.291449199999995,Monday,May
+33201,11-05-2011 00:00,Automovil,Kia motors,Otra,-70.6651682,-33.40683872,Wednesday,May
+33202,31-03-2011 00:00,Motocicletas,Gilera,Nexus 500,-85.5189539,12.522946000000001,Thursday,March
+33203,11-05-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-84.0755483,9.9307289,Wednesday,May
+33204,12-05-2011 00:00,Automovil,Citroen,C-3 1.4,-3.798463812,43.46220185,Thursday,May
+33206,13-05-2011 00:00,Station wagon,Subaru,New outback 2.5 awd mt uz,120.9181565,14.9549111,Friday,May
+33207,12-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.63945921,-33.46196869,Thursday,May
+33208,13-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,121.423449,14.4721916,Friday,May
+33209,15-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-86.47980875,30.511967,Sunday,May
+33210,14-05-2011 00:00,Automovil,Toyota,Yaris gl,-69.614835,-23.2119318,Saturday,May
+33211,14-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-0.2307115,39.672008399999996,Saturday,May
+33212,13-05-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,-70.5560969,-33.4138173,Friday,May
+33213,14-05-2011 00:00,Todo terreno,Toyota,Rav4 std,7.7518709,45.104380299999995,Saturday,May
+33214,15-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.5559639,-33.4582125,Sunday,May
+33215,15-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-2.4345015,39.2470053,Sunday,May
+33216,14-05-2011 00:00,Camioneta,Toyota,Hilux d/c 4wd diesel,-70.40017131,-23.6633395,Saturday,May
+33217,14-05-2011 00:00,Station wagon,Toyota,Rav4 std,1.4119395,38.9835256,Saturday,May
+33218,15-05-2011 00:00,Furgon,Fiat,Fiorino,-65.4429552,18.1505359,Sunday,May
+33219,12-05-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-70.71449017,-33.4646586,Thursday,May
+33220,14-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,167.2457533,-45.4173907,Saturday,May
+33221,15-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.6735276,-33.5713391,Sunday,May
+33222,14-05-2011 00:00,Camioneta,Toyota,Hilux diesel 4x4 a/a,-71.6130544,-33.6147394,Saturday,May
+33223,12-05-2011 00:00,Automovil,Citroen,C-3 1.4,11.22121635,46.13922505,Thursday,May
+33224,13-05-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-70.69171833,-33.57273493,Friday,May
+33225,17-05-2011 00:00,Furgon,Fiat,Fiorino,-66.02027582,18.36524035,Tuesday,May
+33226,16-05-2011 00:00,Furgon,Hyundai,Grace van h 100 d/h,-73.5882136,-37.6843377,Monday,May
+33227,16-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-69.7586082,-18.591851300000002,Monday,May
+33229,16-05-2011 00:00,Camioneta,Kia motors,Frontier 2.7 plus c/s,-70.5435989,-33.340209,Monday,May
+33230,16-05-2011 00:00,Automovil,Kia motors,Rio 1.3 ls dh,159.2110388,-8.04046685,Monday,May
+33231,17-05-2011 00:00,Camioneta,Kia motors,Frontier 2.7 cargo van,-56.1703602,-34.7133484,Tuesday,May
+33232,11-05-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.0d hr dab,13.3265459,46.1740899,Wednesday,May
+33233,17-05-2011 00:00,Camioneta,Subaru,Baja pick up 2.5 at,-70.58956951,-33.39024002,Tuesday,May
+33234,16-05-2011 00:00,Station wagon,Suzuki,Grand nomade 2.0 glx spac,-70.755136,-33.512095699999996,Monday,May
+33235,17-05-2011 00:00,Camioneta,Hyundai,Accent gt (16v),-4.6377716,36.595288399999994,Tuesday,May
+33236,17-05-2011 00:00,Camioneta,Hyundai,Porter hr gls std tci ps,-106.8697647,28.3937566,Tuesday,May
+33237,17-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,40.3212472,43.7456464,Tuesday,May
+33238,17-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.64234391,-33.3805491,Tuesday,May
+33239,12-04-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,-1.3728847,42.654825,Tuesday,April
+33240,18-05-2011 00:00,Automovil,Toyota,Yaris xli,-5.8001495,38.9242775,Wednesday,May
+33241,17-05-2011 00:00,Furgon,Peugeot,Otra,121.112131,14.314352900000001,Tuesday,May
+33242,18-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-70.7262769,-33.3756391,Wednesday,May
+33244,13-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-73.0384299,-36.7830171,Friday,May
+33245,17-05-2011 00:00,Todo terreno,Mitsubishi,Montero sport at,-68.90619,-22.4402014,Tuesday,May
+33246,18-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.58382649,-33.4879991,Wednesday,May
+33247,18-05-2011 00:00,Automovil,Suzuki,Swift 1 5 gl at,-56.5309077,-33.3772128,Wednesday,May
+33248,19-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.5727862,-33.4399576,Thursday,May
+33249,06-03-2011 00:00,Automovil,Peugeot,Otra,-70.9648915,-34.2260739,Sunday,March
+33250,19-05-2011 00:00,Automovil,Hyundai,Accent gt (16v),-68.6356672,-32.6790097,Thursday,May
+33251,19-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.6311763,-33.4335209,Thursday,May
+33252,19-05-2011 00:00,Automovil,Kia motors,Morning ex 1.1 aut dh 4x2,-73.7681843,-42.4346494,Thursday,May
+33253,18-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-56.20273938,-34.87217645,Wednesday,May
+33254,19-05-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,-70.5973946,-33.4382988,Thursday,May
+33255,19-05-2011 00:00,Automovil,Kia motors,Morning ex 1.1 aut dh 4x2,-2.2509509,43.1056377,Thursday,May
+33256,21-05-2011 00:00,Station wagon,Hyundai,Santa fe 2.0 gl 2wd crdi,-73.6524431,5.9639337999999995,Saturday,May
+33258,22-05-2011 00:00,Todo terreno,Hyundai,Tucson 2.0 gl at abs 2ab,-3.3418749,39.614292799999994,Sunday,May
+33259,22-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-6.0083802,39.95254570000001,Sunday,May
+33260,22-05-2011 00:00,Station wagon,Mitsubishi,New outlander k2 gl 4x4,-2.522357135,42.8996097,Sunday,May
+33261,21-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-65.821552,18.289120399999998,Saturday,May
+33262,20-05-2011 00:00,Station wagon,Toyota,Rav4 std,-79.8963424,9.356084800000001,Friday,May
+33263,22-05-2011 00:00,Automovil,Suzuki,Swift gl,-70.6553604,-33.5407629,Sunday,May
+33264,20-05-2011 00:00,Automovil,Porsche,Cayman,-70.5772913,-33.3998092,Friday,May
+33265,18-05-2011 00:00,Automovil,Volvo,C30,-70.2144494,-33.2368381,Wednesday,May
+33266,23-05-2011 00:00,Automovil,Toyota,Yaris gl,-73.6524431,5.9639337999999995,Monday,May
+33267,24-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-58.41938871,-34.57201115,Tuesday,May
+33268,24-05-2011 00:00,Camioneta,Ford,Ranger xlt,-5.6170915,38.863387700000004,Tuesday,May
+33269,20-05-2011 00:00,Camioneta,Nissan,Terrano,-59.6641666,-62.4791666,Friday,May
+33270,24-05-2011 00:00,Automovil,Toyota,Corolla xli,-75.74048283,4.797208900000001,Tuesday,May
+33271,24-05-2011 00:00,Automovil,Fiat,Uno cs,-70.6134508,-33.558798200000005,Tuesday,May
+33272,24-05-2011 00:00,Todo terreno,Hyundai,Tucson 2.0 gl at abs 2ab,29.8271171,40.3674032,Tuesday,May
+33273,24-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.6138025,-33.454742100000004,Tuesday,May
+33274,24-05-2011 00:00,Todo terreno,Suzuki,Grand nomade 2.0 glx spac,-70.5339161,-33.3913041,Tuesday,May
+33275,24-05-2011 00:00,Station wagon,B.m.w.,X6 xdrive30d,-6.0856822,41.5407681,Tuesday,May
+33276,24-05-2011 00:00,Camioneta,Nissan,Terrano,-70.5399117,-33.4381395,Tuesday,May
+33277,25-05-2011 00:00,Camioneta,Nissan,Terrano,-78.6252379,-1.2438898999999999,Wednesday,May
+33278,25-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.6097289,-33.4306885,Wednesday,May
+33279,20-05-2011 00:00,Camioneta,Citroen,Berlingo ii hdi pta lat,-1.1910359,42.8028724,Friday,May
+33280,25-05-2011 00:00,Todo terreno,Kia motors,Frontier 2.7 plus c/s,0.4047122,43.082803399999996,Wednesday,May
+33281,25-05-2011 00:00,Station wagon,Subaru,Outback 2.5 at awd 3s (n),0.5026083,42.536589500000005,Wednesday,May
+33282,25-05-2011 00:00,Camioneta,Chevrolet,Luv 2.3 dlxs,-71.0354821,-34.5345379,Wednesday,May
+33283,25-05-2011 00:00,Automovil,Toyota,Yaris gl,159.2110388,-8.04046685,Wednesday,May
+33284,25-05-2011 00:00,Automovil,Hyundai,Getz fl 1.4 gl 2ab,-71.25145385,-29.912619199999998,Wednesday,May
+33285,25-05-2011 00:00,Camioneta,Chevrolet,Luv sup 3.2 190hp 4wd,-75.70565469,4.80879345,Wednesday,May
+33286,25-05-2011 00:00,Camioneta,Chevrolet,Luv d-max cc 3.5 4wd ac,-70.59762557,-33.4416703,Wednesday,May
+33287,25-05-2011 00:00,Otro,Volvo,Otra,-99.9611985,20.3982253,Wednesday,May
+33288,24-05-2011 00:00,Camiones,Ford,Cargo 4532 e corto,-69.7998529,18.561501999999997,Tuesday,May
+33289,27-05-2011 00:00,Camioneta,Ford,F250 xl cc 4x2,-70.1437014,-20.235376000000002,Friday,May
+33291,26-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.5901039,-33.3823008,Thursday,May
+33292,26-05-2011 00:00,Automovil,Toyota,Yaris gl,-3.381415,38.7608157,Thursday,May
+33293,26-05-2011 00:00,Automovil,Toyota,Yaris gl,-66.94016975,18.25005155,Thursday,May
+33294,26-05-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at 2wd,-75.6261619,6.944855199999999,Thursday,May
+33295,26-05-2011 00:00,Camioneta,Nissan,Terrano,-5.869603,41.266765299999996,Thursday,May
+33296,27-05-2011 00:00,Camioneta,Nissan,Terrano,-70.6814364,-33.471111,Friday,May
+33297,26-05-2011 00:00,Automovil,Toyota,Yaris gli,-49.24209309,-25.418199899999998,Thursday,May
+33298,24-05-2011 00:00,Camioneta,Nissan,Terrano,-2.103403,42.2229156,Tuesday,May
+33299,26-05-2011 00:00,Camioneta,Citroen,Berlingo ii hdi pta lat,-70.5665546,-33.4743648,Thursday,May
+33300,28-05-2011 00:00,Automovil,Hyundai,Accent gt (16v),-67.0205266,10.4179192,Saturday,May
+33301,28-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-2.9349458,43.2629489,Saturday,May
+33302,28-05-2011 00:00,Automovil,Toyota,Yaris gl,-70.5981102,-33.43287855,Saturday,May
+33303,27-05-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-70.7852359,-33.3719614,Friday,May
+33304,29-05-2011 00:00,Automovil,Suzuki,Aerio glx at,-77.84247235,-8.39038885,Sunday,May
+33305,28-05-2011 00:00,Camioneta,Nissan,Terrano,-64.6828154,10.1098069,Saturday,May
+33306,30-05-2011 00:00,Automovil,Kia motors,Frontier 2.7 plus c/s,-70.5501135,-33.4349108,Monday,May
+33307,27-05-2011 00:00,Automovil,B.m.w.,116 i,-70.6910772,-33.3574733,Friday,May
+33308,30-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-4.5539179,36.6050046,Monday,May
+33309,30-05-2011 00:00,Automovil,Toyota,Yaris gl,125.6010053,8.7351844,Monday,May
+33310,25-05-2011 00:00,Automovil,Toyota,Yaris sport xli,-75.6261619,6.944855199999999,Wednesday,May
+33311,28-05-2011 00:00,Automovil,Chevrolet,Optra ii ls nb 1.6 mt ac,-2.8088091,36.7720731,Saturday,May
+33312,30-05-2011 00:00,Automovil,Toyota,Yaris gl,-5.4407471,43.5196121,Monday,May
+33313,09-02-2011 00:00,Automovil,Toyota,Yaris gl,-70.6246964,-33.4558415,Wednesday,February
+33314,30-05-2011 00:00,Todo terreno,Toyota,Rav4 std,-70.65060357,-33.48069688,Monday,May
+33315,31-05-2011 00:00,Automovil,Suzuki,Swift 1 3 ga,-70.57067999,-33.437127399999994,Tuesday,May
+33316,30-05-2011 00:00,Camiones,Kia motors,Frontier 2.7 plus c/s,3.1209227,42.248535,Monday,May
+33317,29-05-2011 00:00,Automovil,Toyota,Corolla xli,-70.5591876,-33.5222926,Sunday,May
+33318,30-05-2011 00:00,Camaras frigorificas (con unidad refrigerante y sin chassis),Kia motors,Frontier 2.7 plus c/s,-4.4618137,40.45469979999999,Monday,May
+33385,02-03-2011 00:00,Automovil,Toyota,Yaris gl,-70.6220654,-33.439851399999995,Wednesday,March
+33389,04-03-2011 00:00,Station wagon,Hyundai,Santa fe 2.0 gl 2wd crd,-70.0846734,-20.2860115,Friday,March
+33390,07-03-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-73.15258399,-36.79705745,Monday,March
+33391,07-03-2011 00:00,Camioneta,Great wall,Wingle 4x2 ab,-70.3941702,-23.5923081,Monday,March
+33392,07-03-2011 00:00,Automovil,Chevrolet,Aveo ls hb 5p 1.4 16v mt,-71.2466405,-34.9948015,Monday,March
+33393,07-03-2011 00:00,Automovil,Byd,F3 1.5 g-i,-103.2147466,25.8708546,Monday,March
+33394,04-03-2011 00:00,Station wagon,Hyundai,Tucson 2.0 gl at abs 2ab,-70.67687631,-33.49058098,Friday,March
+33395,08-03-2011 00:00,Automovil,Honda,Civic sedan,-57.8619241,-34.8723089,Tuesday,March
+33399,09-03-2011 00:00,Station wagon,Hyundai,Santa fe 2.0 gl 2wd crd,-99.2719825,19.3934434,Wednesday,March
+33400,10-03-2011 00:00,Camioneta,Toyota,Hilux,-58.2615558,-37.8419472,Thursday,March
