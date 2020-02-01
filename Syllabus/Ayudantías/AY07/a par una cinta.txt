@@ -1,0 +1,21 @@
+// Maquina que recibe como input una palabra comupesta por a y b. 
+// Acepta si la cantidad de a en la palabra es par
+
+name: Cantidad par de a
+init: q_par
+accept: qf
+
+q_par, a
+q_impar, a, >
+
+q_impar, a
+q_par, a, >
+
+q_par, b
+q_par, b, >
+
+q_impar, b
+q_impar, b, >
+
+q_par, _
+qf, _, -
