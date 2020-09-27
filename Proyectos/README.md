@@ -1,2 +1,0 @@
-# Exploratorio
-Backup
